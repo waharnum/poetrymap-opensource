@@ -1,0 +1,4452 @@
+
+---
+sources:
+  columns:
+  - id
+  - title
+  - created_at
+  - updated_at
+  - library_item_id
+  - type
+  - url
+  records:
+  - - '1'
+    - The Shape of a Throat
+    - '2015-02-05 10:35:00.050675'
+    - '2015-02-05 10:35:00.050675'
+    - '2910739'
+    - Book
+    -
+  - - '2'
+    - 'A hat to stop a train '
+    - '2015-02-05 10:44:45.265743'
+    - '2015-02-05 10:44:45.265743'
+    - '427516'
+    - Book
+    -
+  - - '3'
+    - The Material Sublime
+    - '2015-02-05 10:46:21.212881'
+    - '2015-02-05 10:46:21.212881'
+    - '2797536'
+    - Book
+    -
+  - - '4'
+    - A river at night
+    - '2015-02-05 11:47:42.543397'
+    - '2015-02-05 11:47:42.543397'
+    - '2513174'
+    - Book
+    -
+  - - '5'
+    - Airstream land yacht
+    - '2015-02-05 11:48:22.057481'
+    - '2015-02-05 11:48:22.057481'
+    - '278379'
+    - Book
+    -
+  - - '6'
+    - 'Catch the sweet '
+    - '2015-02-05 11:48:39.540767'
+    - '2015-02-05 11:48:39.540767'
+    - '277929'
+    - Book
+    -
+  - - '7'
+    - Ciao, Baby
+    - '2015-02-05 11:49:11.645762'
+    - '2015-02-05 11:49:11.645762'
+    - '1815495'
+    - Book
+    -
+  - - '8'
+    - 'Clarity between clouds : poems of  midlife'
+    - '2015-02-05 11:49:35.849565'
+    - '2015-02-05 11:49:35.849565'
+    - '1562306'
+    - Book
+    -
+  - - '9'
+    - Could Be
+    - '2015-02-05 11:55:15.609005'
+    - '2015-02-05 11:55:15.609005'
+    - '2564500'
+    - Book
+    -
+  - - '10'
+    - Descant (Spring 2013)
+    - '2015-02-05 11:55:47.316741'
+    - '2015-02-05 11:55:47.316741'
+    - '533670'
+    - Book
+    -
+  - - '11'
+    - Eight more Canadian poets
+    - '2015-02-05 11:55:59.383457'
+    - '2015-02-05 11:55:59.383457'
+    - '2153684'
+    - Book
+    -
+  - - '12'
+    - Folk
+    - '2015-02-05 11:56:11.933206'
+    - '2015-02-05 11:56:11.933206'
+    - '2821154'
+    - Book
+    -
+  - - '13'
+    - Her red hair rises with the wings of  insects
+    - '2015-02-05 11:56:38.722297'
+    - '2015-02-05 11:56:38.722297'
+    - '3027030'
+    - Book
+    -
+  - - '14'
+    - Hoarse Legend
+    - '2015-02-05 11:56:51.618858'
+    - '2015-02-05 11:56:51.618858'
+    - '369499'
+    - Book
+    -
+  - - '15'
+    - Italian Women and Other Tragedies
+    - '2015-02-05 11:57:16.211342'
+    - '2015-02-05 11:57:16.211342'
+    - '1579916'
+    - Book
+    -
+  - - '16'
+    - Lichen, Vol. 7, No 2, 2005
+    - '2015-02-05 11:57:29.580458'
+    - '2015-02-05 11:57:29.580458'
+    - '147134'
+    - Book
+    -
+  - - '17'
+    - Looking at Renaissance Paintings  and other Poems
+    - '2015-02-05 11:57:55.605048'
+    - '2015-02-05 11:57:55.605048'
+    - '2461581'
+    - Book
+    -
+  - - '18'
+    - Marrow, Willow
+    - '2015-02-05 11:59:06.175395'
+    - '2015-02-05 11:59:06.175395'
+    - '2750357'
+    - Book
+    -
+  - - '19'
+    - My Etruscan Face
+    - '2015-02-05 11:59:23.961984'
+    - '2015-02-05 11:59:23.961984'
+    - '1805237'
+    - Book
+    -
+  - - '20'
+    - 'Night walk: selected poems'
+    - '2015-02-05 11:59:51.962387'
+    - '2015-04-08 13:44:12.031424'
+    - '1176704'
+    - Book
+    -
+  - - '21'
+    - 'Nightwatch: new and selected poems'
+    - '2015-02-05 12:00:21.263888'
+    - '2015-02-05 12:00:21.263888'
+    - '570926'
+    - Book
+    -
+  - - '22'
+    - 'Personal effects : poems'
+    - '2015-02-05 12:00:41.903109'
+    - '2015-02-05 12:00:41.903109'
+    - '1911227'
+    - Book
+    -
+  - - '23'
+    - 'Pink purse girl '
+    - '2015-02-05 12:01:03.185462'
+    - '2015-02-05 12:01:03.185462'
+    - '1163607'
+    - Book
+    -
+  - - '24'
+    - Public works
+    - '2015-02-05 12:01:25.557702'
+    - '2015-02-05 12:01:25.557702'
+    - '232693'
+    - Book
+    -
+  - - '25'
+    - 'Queen rat : new and selected poems'
+    - '2015-02-05 12:01:50.132138'
+    - '2015-02-05 12:01:50.132138'
+    - '406789'
+    - Book
+    -
+  - - '26'
+    - Queen's Quarterly, 119/2 Summer
+    - '2015-02-05 12:01:58.176806'
+    - '2015-02-05 12:01:58.176806'
+    - '2398497'
+    - Book
+    -
+  - - '27'
+    - Rough Skin
+    - '2015-02-05 12:02:11.197207'
+    - '2015-02-05 12:03:18.203451'
+    - '266629'
+    - Book
+    -
+  - - '28'
+    - Second Collection
+    - '2015-02-05 12:02:26.057982'
+    - '2015-02-05 12:02:26.057982'
+    - '3109940'
+    - Book
+    -
+  - - '29'
+    - She tries her tongue, her silence softly breaks
+    - '2015-02-05 12:02:48.434749'
+    - '2015-02-05 12:02:48.434749'
+    - '327875'
+    - Book
+    -
+  - - '30'
+    - 'Sheep''s vigil by a fervent person : a transcreation of Alberto Caeiro/Fernando
+      Pessoa''s O guardador de rebanhos'
+    - '2015-02-05 12:40:51.286708'
+    - '2015-02-05 12:40:51.286708'
+    - '563820'
+    - Book
+    -
+  - - '31'
+    - Souls in Plain Clothes
+    - '2015-02-05 12:41:51.091593'
+    - '2015-02-05 12:41:51.091593'
+    - '2462174'
+    - Book
+    -
+  - - '32'
+    - The Clarity of Distance
+    - '2015-02-05 12:42:07.377462'
+    - '2015-02-05 12:42:07.377462'
+    - '2854956'
+    - Book
+    -
+  - - '33'
+    - 'The cure is a forest '
+    - '2015-02-05 12:42:23.691306'
+    - '2015-02-05 12:42:23.691306'
+    - '2750316'
+    - Book
+    -
+  - - '34'
+    - 'The days you''ve spent '
+    - '2015-02-05 12:42:36.402745'
+    - '2015-02-05 12:42:59.390117'
+    - '2632921'
+    - Book
+    -
+  - - '35'
+    - The Difficulty of Living on other  Planets
+    - '2015-02-05 12:43:20.962499'
+    - '2015-02-05 12:43:20.962499'
+    - '170790'
+    - Book
+    -
+  - - '36'
+    - The Dowry of Education
+    - '2015-02-05 12:43:37.865139'
+    - '2015-02-05 12:43:37.865139'
+    - '1097200'
+    - Book
+    -
+  - - '37'
+    - The Grace of Private Passage
+    - '2015-02-05 12:43:54.51117'
+    - '2015-02-05 12:43:54.51117'
+    - '1096268'
+    - Book
+    -
+  - - '39'
+    - 'The New Canadian anthology : poetry  and short fiction in English'
+    - '2015-02-05 12:44:28.821705'
+    - '2015-02-05 12:44:28.821705'
+    - '251045'
+    - Book
+    -
+  - - '40'
+    - The Pillow Books
+    - '2015-02-05 12:44:50.753949'
+    - '2015-02-05 12:44:50.753949'
+    - '2787819'
+    - Book
+    -
+  - - '41'
+    - The plural of some things
+    - '2015-02-05 12:45:12.189892'
+    - '2015-02-05 12:45:12.189892'
+    - '2503971'
+    - Book
+    -
+  - - '42'
+    - The red element
+    - '2015-02-05 12:45:24.898603'
+    - '2015-02-05 12:45:24.898603'
+    - '2436950'
+    - Book
+    -
+  - - '44'
+    - 'The speaking earth : Canadian poetry'
+    - '2015-02-05 12:46:37.971028'
+    - '2015-02-05 12:46:37.971028'
+    - '298153'
+    - Book
+    -
+  - - '45'
+    - Thirsty
+    - '2015-02-05 12:46:48.96724'
+    - '2015-02-05 12:46:48.96724'
+    - '220527'
+    - Book
+    -
+  - - '46'
+    - 'Tok: diaspora dialogues, Vol. 3'
+    - '2015-02-05 12:47:19.268009'
+    - '2015-02-05 12:47:19.268009'
+    - '369763'
+    - Book
+    -
+  - - '47'
+    - Too Much Love
+    - '2015-02-05 12:47:40.73824'
+    - '2015-02-05 12:47:40.73824'
+    - '2910759'
+    - Book
+    -
+  - - '48'
+    - What My Arms Can Carry
+    - '2015-02-05 12:48:07.803262'
+    - '2015-02-05 12:48:07.803262'
+    - '1323167'
+    - Book
+    -
+  - - '49'
+    - Where the light waits
+    - '2015-02-05 12:48:24.125808'
+    - '2015-02-05 12:48:24.125808'
+    - '2364615'
+    - Book
+    -
+  - - '50'
+    - Poems from Planet Earth
+    - '2015-02-12 12:21:26.944983'
+    - '2015-03-13 14:16:46.832701'
+    - '3192611'
+    - Book
+    -
+  - - '51'
+    - Other Voices Vol 1, No. 4
+    - '2015-02-12 12:25:15.661453'
+    - '2015-02-12 12:25:15.661453'
+    - '886024'
+    - Book
+    -
+  - - '52'
+    - Beatniks and Other Sacred…?
+    - '2015-02-12 20:59:50.227689'
+    - '2015-02-12 20:59:50.227689'
+    - ''
+    - Book
+    -
+  - - '53'
+    - Song/Poems
+    - '2015-02-12 21:00:29.327158'
+    - '2015-02-12 21:00:29.327158'
+    - ''
+    - Book
+    -
+  - - '54'
+    - Ruminations of a Fractured Diamond
+    - '2015-02-12 21:03:37.869365'
+    - '2015-03-13 13:32:18.594666'
+    - '3192613'
+    - Book
+    -
+  - - '55'
+    - Monday Nights at Butler's Pantry
+    - '2015-02-12 21:04:29.834987'
+    - '2015-02-12 21:04:29.834987'
+    - ''
+    - Book
+    -
+  - - '56'
+    - Unpublished/Unknown
+    - '2015-02-12 21:53:58.005615'
+    - '2015-02-12 21:53:58.005615'
+    - ''
+    - Book
+    -
+  - - '57'
+    - Stripmall subversive
+    - '2015-03-13 13:54:33.573355'
+    - '2015-03-13 13:54:33.573355'
+    - '3192615'
+    - Book
+    -
+  - - '58'
+    - Loyalty management
+    - '2015-03-13 14:13:23.452066'
+    - '2015-03-13 14:13:23.452066'
+    - '1062280'
+    - Book
+    -
+  - - '59'
+    - 'Women do this every day: selected poems of Lillian Allen'
+    - '2015-03-13 14:54:21.142365'
+    - '2015-03-13 14:54:21.142365'
+    - '1217854'
+    - Book
+    -
+  - - '60'
+    - The uncollected Acorn
+    - '2015-03-13 15:00:53.506716'
+    - '2015-03-13 15:00:53.506716'
+    - '1289090'
+    - Book
+    -
+  - - '61'
+    - 'Collected Poems of Raymond Souster, Vol. 1: 1940-55'
+    - '2015-03-23 18:12:53.369902'
+    - '2015-03-23 18:12:53.369902'
+    - '198358'
+    - Book
+    -
+  - - '62'
+    - 'Magic animals: selected poems old and new'
+    - '2015-03-24 20:43:38.873515'
+    - '2015-03-24 20:43:38.873515'
+    - '202596'
+    - Book
+    -
+  - - '63'
+    - Breakfast for barbarians
+    - '2015-03-24 20:47:33.076083'
+    - '2015-03-25 16:41:14.483091'
+    - '2260262'
+    - Book
+    -
+  - - '64'
+    - Lush dreams, blue exile
+    - '2015-03-24 20:50:43.223062'
+    - '2015-03-24 20:50:43.223062'
+    - '557698'
+    - Book
+    -
+  - - '65'
+    - The Fire-eaters
+    - '2015-03-25 17:01:42.352343'
+    - '2015-03-25 17:01:42.352343'
+    - '1272425'
+    - Book
+    -
+  - - '66'
+    - Rotten Perfect Mouth
+    - '2015-03-31 20:31:55.286502'
+    - '2015-03-31 20:31:55.286502'
+    - '3232040'
+    - Book
+    -
+  - - '67'
+    - Meeting the British
+    - '2015-04-02 15:59:50.205807'
+    - '2015-04-02 15:59:50.205807'
+    - '1586474'
+    - Book
+    -
+  - - '68'
+    - Descant (June 2012)
+    - '2015-04-02 16:04:15.324992'
+    - '2015-04-02 16:04:15.324992'
+    - '533670'
+    - Book
+    -
+  - - '69'
+    - Descant (June 2012)
+    - '2015-04-02 16:04:44.041211'
+    - '2015-04-02 16:04:44.041211'
+    - '533670'
+    - Book
+    -
+  - - '70'
+    - Alligator Pie
+    - '2015-04-02 16:10:12.202242'
+    - '2015-04-02 16:10:12.202242'
+    - '136753'
+    - Book
+    -
+  - - '71'
+    - Always Now
+    - '2015-04-07 13:39:48.914334'
+    - '2015-04-07 13:39:48.914334'
+    - '143311'
+    - Book
+    -
+  - - '72'
+    - 'The works: collected poems'
+    - '2015-04-07 13:53:21.142276'
+    - '2015-04-07 13:53:21.142276'
+    - '1166700'
+    - Book
+    -
+  - - '73'
+    - The journals of Susanna Moodie
+    - '2015-04-07 16:53:33.519852'
+    - '2015-04-07 16:53:33.519852'
+    - '410067'
+    - Book
+    -
+  - - '74'
+    - Secular love
+    - '2015-04-07 17:06:56.905924'
+    - '2015-04-07 17:06:56.905924'
+    - '141532'
+    - Book
+    -
+  - - '75'
+    - Afterworlds
+    - '2015-04-07 17:11:03.432706'
+    - '2015-04-07 17:11:03.432706'
+    - '669692'
+    - Book
+    -
+  - - '76'
+    - Strong bread
+    - '2015-04-07 18:10:07.106679'
+    - '2015-04-07 18:10:07.106679'
+    - '2750401'
+    - Book
+    -
+  - - '77'
+    - Metropolis
+    - '2015-04-07 18:15:04.219899'
+    - '2015-04-07 18:15:04.219899'
+    - '1788361'
+    - Book
+    -
+  - - '78'
+    - The sad facts
+    - '2015-04-07 18:19:47.225236'
+    - '2015-04-07 18:19:47.225236'
+    - '589366'
+    - Book
+    -
+  - - '79'
+    - Coke machine glow
+    - '2015-04-07 18:29:00.874827'
+    - '2015-04-07 18:29:00.874827'
+    - '1382907'
+    - Book
+    -
+  - - '80'
+    - Selected poems
+    - '2015-04-07 18:48:54.509785'
+    - '2015-04-07 18:48:54.509785'
+    - '1292155'
+    - Book
+    -
+  - - '81'
+    - Enter the raccoon
+    - '2015-04-07 20:28:46.191789'
+    - '2015-04-07 20:28:46.191789'
+    - '2910657'
+    - Book
+    -
+  - - '82'
+    - The Scarborough
+    - '2015-04-08 19:48:29.752729'
+    - '2015-04-08 19:48:29.752729'
+    - '3170203'
+    - Book
+    -
+  - - '83'
+    - 'Hogg: the poems and drawings'
+    - '2015-04-09 17:32:24.4971'
+    - '2015-04-09 19:25:27.277502'
+    - '1211694'
+    - Book
+    -
+  - - '84'
+    - Selected poems
+    - '2015-04-09 18:29:16.402837'
+    - '2015-04-09 18:29:16.402837'
+    - '952795'
+    - Book
+    -
+  - - '85'
+    - Traverse
+    - '2015-04-09 18:32:15.464026'
+    - '2015-04-09 18:32:15.464026'
+    - '3109877'
+    - Book
+    -
+  - - '86'
+    - The rules of the game
+    - '2015-04-09 21:07:54.59947'
+    - '2015-04-09 21:07:54.59947'
+    - '2910734'
+    - Book
+    -
+  - - '87'
+    - Inhaling the silence
+    - '2015-04-14 14:29:01.782994'
+    - '2015-04-14 14:29:01.782994'
+    - '3267095'
+    - Book
+    -
+  - - '88'
+    - The Strait of Anian, selected poems
+    - '2015-04-14 16:41:30.755677'
+    - '2015-04-14 16:41:30.755677'
+    - '1874895'
+    - Book
+    -
+  - - '89'
+    - Wings toward sunlight
+    - '2015-04-16 13:35:12.607234'
+    - '2015-04-16 13:35:12.607234'
+    - '2838175'
+    - Book
+    -
+
+---
+location_excerpts:
+  columns:
+  - id
+  - location_id
+  - poem_id
+  - excerpt
+  - created_at
+  - updated_at
+  records:
+  - - '1'
+    - '33'
+    - '27'
+    - "Far from this sunny October afternoon,\r\n     we'll rendezvous, my friend,\r\non
+      this rock at Cumberland street,\r\nand all will be revealed."
+    - '2015-03-30 18:53:19.829099'
+    - '2015-03-30 18:53:19.829099'
+  - - '2'
+    - '63'
+    - '20'
+    - "what did it mean then, that urban gleam, my memory's body leaning into your
+      taut back\r\nthat day beneath the Gardiner overpass, motorcycle fumes our alms
+      to the sun as we\r\n                     raced east toward your strange, your
+      only home?"
+    - '2015-03-30 19:03:11.388637'
+    - '2015-03-30 19:03:11.388637'
+  - - '3'
+    - '65'
+    - '20'
+    - "Eastern Avenue will become a birm, an artificial hill\r\nto guard new downtown
+      condos from the Don River's floods every 150 years."
+    - '2015-03-30 19:09:19.171225'
+    - '2015-03-30 19:09:19.171225'
+  - - '4'
+    - '123'
+    - '29'
+    - "          The Spadina theatre\r\nshut down by the Red Squad cops, now a faded\r\nhaematoma
+      under the city's skin."
+    - '2015-03-30 19:15:57.454103'
+    - '2015-03-30 19:15:57.454103'
+  - - '5'
+    - '47'
+    - '29'
+    - "The fingers of wharves now speckled\r\nwith cargo crates and kayakers docking.\r\nTiny
+      owls still nesting on Leslie Street Spit.\r\nThe lake under the lake."
+    - '2015-03-30 19:18:32.133103'
+    - '2015-03-30 19:18:32.133103'
+  - - '6'
+    - '60'
+    - '84'
+    - "A blind man and his dog took the stairs at Union Station,\r\nthought things
+      over for no seconds on the lip between\r\nthe subway and the ledge."
+    - '2015-03-30 19:20:59.530587'
+    - '2015-03-30 19:20:59.530587'
+  - - '7'
+    - '41'
+    - '44'
+    - "the old bus rumbles into Finch Station\r\nmen run out of the shade, encircling
+      it\r\n       as if it were\r\n              a great wounded beast"
+    - '2015-03-30 19:27:08.184434'
+    - '2015-03-30 19:27:08.184434'
+  - - '8'
+    - '49'
+    - '44'
+    - "              the guitarist\r\ngathers money for his service\r\n       and
+      jumps out\r\n       just north of the North York Centre"
+    - '2015-03-30 19:29:08.500892'
+    - '2015-03-30 19:29:08.500892'
+  - - '9'
+    - '71'
+    - '44'
+    - "                   and the engine roars\r\n       as the bus forces itself
+      through traffic\r\n       muscling cars and small trucks\r\n              to
+      the side of the road\r\n       and by the time it hits Sheppard\r\n       the
+      passengers are craning their necks\r\nto see if the motorbikes overtaken\r\n
+      \      are still in one piece behind"
+    - '2015-03-30 19:32:39.948934'
+    - '2015-03-30 20:21:31.03476'
+  - - '10'
+    - '44'
+    - '44'
+    - "                         the winding\r\n              treacherous decent\r\n
+      \      into Hogs Hollow begins, and the door man\r\nstarts to collect money
+      from the passengers\r\n doubling the amount for the American tourists"
+    - '2015-03-30 19:35:00.584026'
+    - '2015-03-30 19:35:00.584026'
+  - - '11'
+    - '128'
+    - '137'
+    - "we were warned about\r\nthe Selby Hotel\r\nit was no place for\r\nSt. Joseph's
+      girls\r\nso we only had thoughts\r\nabout it."
+    - '2015-03-30 20:02:18.913766'
+    - '2015-03-30 20:02:18.913766'
+  - - '12'
+    - '13'
+    - '134'
+    - "to trans-humanize with the pots in Chinatown\r\nlike a poisonous gust of wind
+      to stiffen the backs\r\nof a thousand baby-kissing politicians"
+    - '2015-03-30 20:14:01.931467'
+    - '2015-03-30 20:14:01.931467'
+  - - '13'
+    - '130'
+    - '180'
+    - "Like many houses, the church on Bloor\r\nStreet is made of stone. The bakery
+      is made\r\nof stone and flour. The bookshop, the dentist,\r\nthe defence lawyers
+      and accountants, it\r\ncould be any street, any Little Portugal in\r\nany town.
+      Without sunlight, there are no girls\r\nin sunglasses."
+    - '2015-03-31 20:35:40.226773'
+    - '2015-03-31 20:35:40.226773'
+  - - '14'
+    - '131'
+    - '182'
+    - "On Wednesday we walk down by the water and the lake and the sky\r\nare grey
+      as a March hare's hind legs. It is a perfect steelwool\r\nsky. You stop for
+      driftwood like some old song,\r\nyou lean in close."
+    - '2015-03-31 20:45:03.751194'
+    - '2015-03-31 20:45:03.751194'
+  - - '15'
+    - '11'
+    - '183'
+    - "I am mistaking everything for a sign, clocks, fog\r\nin Christie Pits, my crackling
+      thumbs, shuffling\r\nraccoons, crumpled transfers and pizza parlours..."
+    - '2015-03-31 20:47:30.48402'
+    - '2015-03-31 20:47:30.48402'
+  - - '16'
+    - '137'
+    - '189'
+    - "the polar bear in Riverdale Zoo\r\nroars in his narrow pool, his fur\r\nstained
+      yellow from city\r\nsmoke and filthy water"
+    - '2015-04-07 14:00:10.518799'
+    - '2015-04-07 14:00:10.518799'
+  - - '17'
+    - '135'
+    - '189'
+    - "towers of pleated gold and seagreen glass\r\nonly the CN Tower (a latecomer)
+      rises\r\ncloudward & the Bank of Commerce\r\n(tallest building in the British
+      Empire, 1931)\r\nstands humbled"
+    - '2015-04-07 14:32:36.873456'
+    - '2015-04-07 14:32:36.873456'
+  - - '18'
+    - '136'
+    - '189'
+    - "in shady Roselawn Cemetery\r\nwhether the wind is harsh or gentle\r\nUncle
+      Max lies\r\namong his three wives\r\nBébé, Didi and Claudette"
+    - '2015-04-07 14:33:37.822156'
+    - '2015-04-07 14:33:37.822156'
+  - - '19'
+    - '53'
+    - '189'
+    - "at Queen's Park in long gone days & mine\r\na crocodile of children trail\r\ntheir
+      teacher to watch Mitch Hepburn\r\nbald spot & waving arms\r\nharangue his Legislature"
+    - '2015-04-07 14:34:46.443433'
+    - '2015-04-07 14:35:14.388182'
+  - - '20'
+    - '138'
+    - '189'
+    - "In Riverdale Park where flashers slunk\r\nand bobsleds ran longside the Dirty
+      Don\r\nnow rivers of cars run with clean\r\nbright-eye lights."
+    - '2015-04-07 14:41:35.936775'
+    - '2015-04-07 14:41:35.936775'
+  - - '21'
+    - '13'
+    - '189'
+    - "way down Spadina Avenue\r\nmerchandizing ideographs and blinking\r\nneon diacritical
+      marks\r\nsell dim sum & bok choy where\r\nonce the rag trades sewed their sequined
+      dresses"
+    - '2015-04-07 14:43:40.970668'
+    - '2015-04-07 14:43:40.970668'
+  - - '22'
+    - '92'
+    - '189'
+    - "the eyeballs pop: Here's Honest Ed!\r\nHis lights are shining!\r\nHow we admire
+      his sign's designing"
+    - '2015-04-07 14:49:25.272586'
+    - '2015-04-07 14:49:25.272586'
+  - - '23'
+    - '139'
+    - '189'
+    - "the park here is a treeless square, worn lawn\r\nfurnished with the bust of\r\nSibelius
+      in black granite\r\nthe wind sings his song"
+    - '2015-04-07 14:52:56.259958'
+    - '2015-04-07 14:52:56.259958'
+  - - '24'
+    - '141'
+    - '189'
+    - "on Eglinton west of Bathurst\r\nat the Monte Carlo Restaurant\r\nfirst time
+      out after the operation\r\nthe waiter stares at the bones and says\r\nYou sure
+      know how to eat a chicken"
+    - '2015-04-07 15:00:40.484627'
+    - '2015-04-07 15:00:40.484627'
+  - - '25'
+    - '142'
+    - '189'
+    - "that old Chas Addams house on Lonsdale\r\nRoad shadowed and eerie in curlicued\r\ngables"
+    - '2015-04-07 15:04:46.544571'
+    - '2015-04-07 15:04:46.544571'
+  - - '26'
+    - '140'
+    - '189'
+    - "from the front lawn at\r\n52 Kingston Rd in 1932\r\nI watch the sun go down\r\nover
+      the wall of Woodbine Racetrack"
+    - '2015-04-07 15:17:00.661841'
+    - '2015-04-07 15:17:00.661841'
+  - - '27'
+    - '145'
+    - '192'
+    - "everyone had ducktails and smelled of Vitalis\r\nand you cracked your gum,
+      cracked your gum\r\nand died inside\r\nand looked the whole world up and down."
+    - '2015-04-07 17:13:34.277979'
+    - '2015-04-07 17:13:34.277979'
+  - - '28'
+    - '58'
+    - '166'
+    - "a burger a leather jacket a pair of shoes a smoke\r\nto find a job to get drunk
+      at the Zanzibar"
+    - '2015-04-07 18:03:52.655762'
+    - '2015-04-07 18:03:52.655762'
+  - - '29'
+    - '53'
+    - '24'
+    - "               the Legislative Buildings\r\nare nearby around the circle and
+      you've\r\nnever seen them, never noticed, never\r\nreally looked. Get on your
+      bike\r\nand round it round the crescent called\r\nQueen's Park you've heard
+      forever like two syllables\r\nnow full of building and steps and tourists."
+    - '2015-04-08 13:27:00.91923'
+    - '2015-04-08 13:27:00.91923'
+  - - '30'
+    - '99'
+    - '24'
+    - "Alone again our new block stretches further, east to Woodbine\r\nwhere their
+      station is. Pete and Ken.\r\nCompass point. Plant a flag. Wave. You're between
+      two\r\nstations, Ken said. Between. Two stations. Paramedic poles\r\nlike tent
+      pegs banged in. We lean carefully.\r\nThe subway goes through us but we don't
+      notice."
+    - '2015-04-08 13:39:50.758007'
+    - '2015-04-08 13:39:50.758007'
+  - - '31'
+    - '88'
+    - '112'
+    - "if we all return to our\r\npoint of departure\r\nthis city would cry from Bay
+      Street\r\nto 905"
+    - '2015-04-08 16:25:17.354508'
+    - '2015-04-08 16:25:17.354508'
+  - - '32'
+    - '89'
+    - '112'
+    - "build a tower in Scarborough\r\nerect a museum\r\nput fashion in your window\r\nconfine
+      the mayor over there\r\n3 months a year\r\nin distant Scarborough\r\nand three
+      months a year at Jane and Finch"
+    - '2015-04-08 16:26:32.705025'
+    - '2015-04-08 16:26:32.705025'
+  - - '33'
+    - '27'
+    - '112'
+    - "build a tower in Scarborough\r\nerect a museum\r\nput fashion in your window\r\nconfine
+      the mayor over there\r\n3 months a year\r\nin distant Scarborough\r\nand three
+      months a year at Jane and Finch"
+    - '2015-04-08 16:29:19.695719'
+    - '2015-04-08 16:29:19.695719'
+  - - '34'
+    - '113'
+    - '74'
+    - "when yellow tape's stretched across the Hav-A-Sleep Motel,\r\na girl is dead,
+      and all that remains is police work."
+    - '2015-04-08 19:18:21.430495'
+    - '2015-04-08 19:18:21.430495'
+  - - '35'
+    - '63'
+    - '212'
+    - "Feel the secular roar of the Gardiner,\r\nAnd smile at how in the land of the
+      nightmask\r\nMascara is a kind of queenmaker"
+    - '2015-04-08 20:11:19.147031'
+    - '2015-04-08 20:11:24.114351'
+  - - '36'
+    - '33'
+    - '21'
+    - "On Bloor Street near Holt Renfrew\r\nthere's a woman begging in a wheelchair.\r\nStroke
+      melted the brain and the body followed."
+    - '2015-04-09 13:38:22.955961'
+    - '2015-04-09 13:38:22.955961'
+  - - '37'
+    - '62'
+    - '226'
+    - "Stealthily, but brazenly, I stole the plum Poli Sci job\r\n       for undergrads"
+    - '2015-04-09 18:50:28.448604'
+    - '2015-04-09 18:50:28.448604'
+  - - '38'
+    - '73'
+    - '53'
+    - "love ran in sneakers\r\ninto the dry cleaners\r\nlove at the Embassy\r\nlove
+      in the tennis court, love in our omelet\r\neverywhere, everywhere\r\nroom for
+      love."
+    - '2015-04-09 19:56:26.354921'
+    - '2015-04-09 19:56:26.354921'
+  - - '39'
+    - '163'
+    - '232'
+    - "mind floating\r\n     at the Mill Street Brewery:\r\n        dessert for free\r\n\r\n
+      \       beer gushing"
+    - '2015-04-14 14:32:35.048936'
+    - '2015-04-14 14:32:35.048936'
+
+---
+poems:
+  columns:
+  - id
+  - title
+  - created_at
+  - updated_at
+  - source_id
+  - poet_id
+  - excerpt
+  records:
+  - - '1'
+    - Greenwood
+    - '2015-02-05 10:35:34.96445'
+    - '2015-03-17 16:58:31.536207'
+    - '1'
+    - '1'
+    - "Look, she points, green wood, Greenwood, so next time you can find\r\nmy stop."
+  - - '2'
+    - You Must Cross the Big Road
+    - '2015-02-05 10:38:27.890527'
+    - '2015-03-13 15:46:25.503657'
+    - '1'
+    - '1'
+    - "You must cross the big road \r\n         to enter the park, trucks trundling
+      \                                                 \r\nto the expressway."
+  - - '3'
+    - Labour Day Toronto
+    - '2015-02-05 10:39:31.342614'
+    - '2015-03-13 14:36:51.916072'
+    - '1'
+    - '1'
+    - "Planes circle the Lakeshore. Formation of five, \r\n                              dive-bombing
+      trees. Sky writing."
+  - - '4'
+    - The Warblers Wander
+    - '2015-02-05 10:39:45.425035'
+    - '2015-03-13 15:10:33.585229'
+    - '1'
+    - '1'
+    - "                       The warblers wander the tree-                       tops,
+      far from us dropping ice cream wrappers."
+  - - '6'
+    - In transit
+    - '2015-02-05 10:40:10.619789'
+    - '2015-03-20 17:39:43.619567'
+    - '1'
+    - '1'
+    - Stand at the window, front of the first car, end of the last. Be a child, run
+      to the window, gaze down the long tunnel
+  - - '7'
+    - What can you do on the  subway?
+    - '2015-02-05 10:40:24.153733'
+    - '2015-03-13 15:42:10.845007'
+    - '1'
+    - '1'
+    - "Read, read like mad, all the books in your bag,    \r\nread to your heart's
+      content,"
+  - - '8'
+    - Underground
+    - '2015-02-05 10:41:03.463168'
+    - '2015-03-13 15:39:34.484244'
+    - '1'
+    - '1'
+    - So many of us, our coats full of rain. I  squeeze between a man and a woman.
+      We cough - stare...
+  - - '9'
+    - Rush Hour on the Bloor line
+    - '2015-02-05 10:41:11.935649'
+    - '2015-03-20 17:39:31.54963'
+    - '1'
+    - '1'
+    - We are as far beneath ground as we can go and still be alive.
+  - - '10'
+    - The 506 streetcar
+    - '2015-02-05 10:41:29.082157'
+    - '2015-03-13 15:03:51.84555'
+    - '1'
+    - '1'
+    - "… as the streetcar weaves west.  Curious\r\n- it wants to know what's what,
+      to finger\r\nsleeves in dress stores, sip espresso, eat\r\nat Grappa"
+  - - '11'
+    - Born
+    - '2015-02-05 10:43:57.811638'
+    - '2015-03-13 14:01:02.970715'
+    - '1'
+    - '1'
+    - "on the lip of winter, before dawn, you are         \r\nthe steam inside the
+      504 streetcar"
+  - - '12'
+    - Walk on over to High Park
+    - '2015-02-05 10:45:12.460227'
+    - '2015-03-13 15:41:04.110998'
+    - '2'
+    - '1'
+    - "Walk on over to High Park, \r\n                              hop the streetcar
+      west. Find a bank \r\nby a river if you're lucky."
+  - - '13'
+    - 'Junction Sonnets: I, II, III.i, III.ii'
+    - '2015-02-05 10:47:58.628995'
+    - '2015-03-17 17:14:51.428745'
+    - '3'
+    - '2'
+    - "Chestnuts scatter on the ground: their prickly green\r\nhusks and deep brown
+      hearts punctuate the dull \r\nnoise of the concrete, accent fallen leaves\r\non
+      a softly murmuring lawn."
+  - - '14'
+    - Late Autumn in the Annex, 1997
+    - '2015-02-05 10:48:11.151415'
+    - '2015-03-13 14:37:37.031713'
+    - '3'
+    - '2'
+    - "we were heartened, knew we'd soon see\r\n light break through, set the top
+      of the foliage\r\n across the Annex aflame"
+  - - '15'
+    - Junction Elegies I
+    - '2015-02-05 10:48:30.742545'
+    - '2015-03-13 14:32:15.826852'
+    - '3'
+    - '2'
+    - "It's early morning, the earth tectonic with dull light, all manner\r\nof curves,
+      slowly shifting"
+  - - '16'
+    - Essentialist
+    - '2015-02-05 17:55:41.69649'
+    - '2015-03-13 14:11:24.820539'
+    - '5'
+    - '5'
+    - "Surfacing at St. George, I cupped my hands\r\n          and blew--bodies scattering
+      among museums,\r\n                       bank towers, campus rooms, and shops…"
+  - - '17'
+    - To Toronto
+    - '2015-02-05 17:56:22.2668'
+    - '2015-03-30 19:40:27.569849'
+    - '46'
+    - '6'
+    - "                     I stow my heart in Kensington\r\nMarket; in your warm
+      red bricks; beneath the Danforth Bridge;\r\nhoping time will treat you kindly
+      and my\r\ndevotion be not worthless."
+  - - '18'
+    - As I was walking from the Beth Tzedec
+    - '2015-02-05 17:56:59.809802'
+    - '2015-03-13 13:56:56.755113'
+    - '46'
+    - '6'
+    - "This walk to our car, after the shofar,\r\nIs September ending"
+  - - '19'
+    - Sonnets for the Flower-Man
+    - '2015-02-05 17:57:32.666428'
+    - '2015-03-13 15:02:12.726219'
+    - '46'
+    - '6'
+    - "Middle-aged, from someplace warm, he shuffled, through with his bouquet, above
+      which hungry, \r\ngentle eyes proposed gifts, husband to wife:\r\na rose?"
+  - - '20'
+    - Industrial Evolution  (A Reprise)
+    - '2015-02-05 18:01:46.198709'
+    - '2015-03-27 19:16:45.750447'
+    - '46'
+    - '6'
+    - "     you come visit me on the Bayview Extension we used to delight in chicaning
+      down\r\n     yelling over wind and CBC;\r\nI find again our nocturnal glee speeding
+      beneath the Danforth Bridge\r\nlit by the night's last train or silent and steady
+      bearing its suicide blockade\r\n     that looked to us below like rows of luminous
+      crosses"
+  - - '21'
+    - Personal Effects
+    - '2015-02-05 18:02:51.175246'
+    - '2015-03-13 14:46:45.485276'
+    - '22'
+    - '7'
+    - "There are memories\r\non the street that curves called Spadina Crescent\r\na
+      cardboard box bends around blankets\r\nto make a paper cave that blows away"
+  - - '22'
+    - Kensington Market
+    - '2015-02-05 18:05:28.08685'
+    - '2015-03-13 14:36:24.844928'
+    - '22'
+    - '7'
+    - "Sidewalks of vegetables, apples and pears in their own boxes.\r\nKidney beans
+      and pinto beans"
+  - - '23'
+    - Neighbourhood
+    - '2015-02-05 18:06:13.009904'
+    - '2015-04-07 21:05:47.474351'
+    - '24'
+    - '7'
+    - "That day Christie Street was resurfaced, peeled back\r\nand everyone walked
+      in the underworld.\r\n\r\nBig yellow dinosaur diggers and no one drove.\r\nEveryone
+      stepping down\r\ninto the street that was suddenly lower and wider\r\nas though
+      we could walk out farther and deeper on our own."
+  - - '24'
+    - Public works
+    - '2015-02-05 18:06:41.357084'
+    - '2015-04-08 13:32:36.119461'
+    - '24'
+    - '7'
+    - "We bought a house. Beneath it, thunder.\r\nOur neighbour says, take a bath,\r\nput
+      your head under the water and the train\r\nis in there with you. In the tub,
+      water\r\nbelongs to us, warm, fourteen feet\r\nto the street. Moves in the pipes.
+      Belonging\r\nor not belonging, the new house works,\r\nfitted into the city's
+      plug.\r\nSewage treatment down hill,\r\nGreenwood station at the top."
+  - - '25'
+    - Leaving the Island
+    - '2015-02-05 18:07:00.656343'
+    - '2015-03-13 14:37:57.033286'
+    - '20'
+    - '8'
+    - "Engine, captain, lifebuoys aside, the essence of the ferries is wood, which
+      floats upon water,\r\nand whose varnished grain, in the last rays, gives off
+      such homesickness."
+  - - '26'
+    - Horizons 1
+    - '2015-02-05 18:07:53.603062'
+    - '2015-03-27 21:10:50.760539'
+    - '34'
+    - '9'
+    - "keeper of the valley - \r\n\r\nshe\r\n\r\nstretches her concrete trunk skyward,
+      settles\r\nher arms across, broad and leaf-like to capture the sun."
+  - - '27'
+    - Backward glances
+    - '2015-02-05 18:10:25.811644'
+    - '2015-03-27 19:40:47.376704'
+    - '34'
+    - '9'
+    - "Look they've knocked down\r\nthat brick building\r\nnear the university\r\nwhere
+      we sat sometimes\r\n     at night\r\n     and talked\r\nabout the way things
+      would someday be"
+  - - '28'
+    - Sketch for April
+    - '2015-02-05 19:25:36.013412'
+    - '2015-03-13 14:59:43.946194'
+    - '9'
+    - '11'
+    - "I was trying to make my position known:\r\na footbridge over Mimico Creek\r\nfrom
+      where I was planning to catch the Passion Play."
+  - - '29'
+    - My own Veins
+    - '2015-02-05 19:28:03.42879'
+    - '2015-03-30 19:13:42.096973'
+    - '10'
+    - '20'
+    - "Jersey Avenue with its elbow turn\r\nand string of workers' cottages\r\nfacing
+      a row of garages like broken teeth -- \r\nthe street where my grandparents made\r\ntheir
+      first home, the one I never visited."
+  - - '31'
+    - I
+    - '2015-02-05 19:57:05.559655'
+    - '2015-03-05 03:03:53.867674'
+    - '45'
+    - '10'
+    - "This city is beauty\r\nunbreakable and amorous as eyelids,\r\nin the streets,
+      pressed with fierce departures,"
+  - - '32'
+    - Perpetual Cleanup
+    - '2015-02-05 19:57:56.594095'
+    - '2015-03-27 19:18:22.778624'
+    - '9'
+    - '11'
+    - "We wake up\r\nto the sounds of development.\r\nIs that Mimico Creek in the
+      washing machine?"
+  - - '33'
+    - He Has a Book on the Wall
+    - '2015-02-05 19:58:26.618978'
+    - '2015-03-27 19:19:04.384501'
+    - '9'
+    - '11'
+    - "That book is Mimico Creek music\r\nof which we could've been the Paul Simon\r\ninstead
+      of these one-note ducks."
+  - - '34'
+    - A Man was Walking his Dog
+    - '2015-02-05 19:58:40.755067'
+    - '2015-03-11 01:44:14.800876'
+    - '9'
+    - '11'
+    - "Mr. Hyland was walking Quills beside Mimico Creek.\r\nI was quite taken with
+      him and the river\r\nwas a raging torrent"
+  - - '35'
+    - Why Always Me
+    - '2015-02-05 19:59:05.360153'
+    - '2015-03-11 01:44:32.742387'
+    - '9'
+    - '11'
+    - "It's a cynical Mimico Creek\r\nrounding the bend this morning."
+  - - '36'
+    - Bridge Over Mimico Creek
+    - '2015-02-05 19:59:22.731643'
+    - '2015-03-11 01:45:10.795216'
+    - '9'
+    - '11'
+    - "A boy was throwing pieces of bread\r\nat the ducks. I said, \"Excuse me but\r\nthat
+      is killing them.\""
+  - - '37'
+    - Recursus
+    - '2015-02-05 20:00:00.921677'
+    - '2015-03-13 14:49:34.955291'
+    - '9'
+    - '11'
+    - "     Mimico Creek is sparkling\r\non this morning of all mornings.  I say it
+      is enough\r\nto make me a believer."
+  - - '39'
+    - Apple
+    - '2015-02-12 11:20:33.741871'
+    - '2015-03-13 13:20:57.694255'
+    - '32'
+    - '12'
+    - "The air curled white and clean by the lipstick canoe\r\nPerched high above
+      the cars on the expressway"
+  - - '41'
+    - "(Goldberg) variations"
+    - '2015-02-12 11:30:19.358825'
+    - '2015-03-13 13:13:06.796067'
+    - '32'
+    - '12'
+    - "On a clear day you can sift titanium\r\nIf you step back far enough.\r\nYou
+      can watch the sky flex\r\nAnd flow and petrify"
+  - - '43'
+    - Restless
+    - '2015-02-12 11:41:35.99376'
+    - '2015-04-08 18:48:59.230725'
+    - '26'
+    - '16'
+    - "I've watched you grudgingly push a stranger's Honda\r\nblocks from Woodmount
+      and Mortimer to a gas station,\r\nnever wanting to break your cool, never saying
+      a word."
+  - - '44'
+    - Just Imagine…
+    - '2015-02-12 11:42:57.701858'
+    - '2015-03-30 19:37:11.380643'
+    - '16'
+    - '16'
+    - "                         The doorman\r\n              looks about, takes a
+      long, last drag\r\n       of a cigarette and calls out:\r\n\r\n\"Union station!
+      Union station! Union station!\""
+  - - '45'
+    - Yorkville Landscape Park
+    - '2015-02-12 11:43:39.547805'
+    - '2015-03-17 17:28:16.994793'
+    - '28'
+    - '14'
+    - "This pretty bijou place\r\ndesigner park\r\nexquisite as the windows \r\nof
+      the shop \r\nsuch a surprise!"
+  - - '46'
+    - Al Purdy sits in Queen's Park
+    - '2015-02-12 11:44:07.87041'
+    - '2015-03-13 13:18:11.782485'
+    - '17'
+    - '15'
+    - "He cocks his head and looks\r\ntowards St. Michael's College\r\nwhere Marshall
+      McLuhan taught poetry"
+  - - '47'
+    - Rainbird in the Annex
+    - '2015-02-12 11:49:35.014086'
+    - '2015-03-13 14:48:47.33449'
+    - '41'
+    - '17'
+    - "I float on\r\nforgetting why I came and\r\nbecome caught in Atwood's wide-brimmed
+      hat"
+  - - '49'
+    - Little stars
+    - '2015-02-12 11:50:55.262747'
+    - '2015-03-17 17:35:47.449275'
+    - '42'
+    - '18'
+    - "First on the fresh dry cement along Bloor.\r\nLater in the sprint of our townhouse
+      sprinkler - \r\nlittle stars that aren't stars."
+  - - '50'
+    - Asylum wall
+    - '2015-02-12 11:51:19.790501'
+    - '2015-03-13 13:57:36.504858'
+    - '13'
+    - '18'
+    - "The warehousing of the mad\r\nbegan with wooden walls\r\nthe year of John A's
+      birth."
+  - - '51'
+    - A hooker flashes her  breasts on Jarvis as we drive home from the poetry workshop
+    - '2015-02-12 11:51:40.49796'
+    - '2015-03-13 13:11:17.282999'
+    - '23'
+    - '19'
+    - "And those breasts of hers are timeless\r\ntwo touching odes\r\nthe wellspring
+      of all first nourishment"
+  - - '52'
+    - Music, a food for love
+    - '2015-02-12 11:53:36.766698'
+    - '2015-03-13 14:42:13.069425'
+    - '23'
+    - '19'
+    - "You went underground, I stayed on,\r\nto rock through the runny neon of Chinatown
+      East\r\nthen warm myself on the skyline's red ashes,\r\nnow at some distance."
+  - - '53'
+    - Room for Love
+    - '2015-02-12 11:55:50.119854'
+    - '2015-04-09 19:56:31.785661'
+    - '23'
+    - '19'
+    - "They're tearing down the dorm\r\nacross from where I sell my poems\r\ntrouble
+      with this campus now\r\nthere's no room for love"
+  - - '55'
+    - Speak, Costas!
+    - '2015-02-12 11:56:34.032477'
+    - '2015-03-27 19:20:49.887097'
+    - '23'
+    - '19'
+    - now I see only the grey photograph, Holy Mother of God, the fire extinguisher,
+      City of Toronto inspection tag, the pigeons out on Pape, snow and ice
+  - - '56'
+    - Resolution
+    - '2015-02-12 11:57:09.541024'
+    - '2015-03-13 14:49:54.727329'
+    - '23'
+    - '19'
+    - "7 a.m. the young man outside Pape Station\r\nwears red high tops\r\ndawn just
+      pinking the sky"
+  - - '57'
+    - A prayer about dying
+    - '2015-02-12 11:57:24.748201'
+    - '2015-03-27 19:21:18.182526'
+    - '6'
+    - '19'
+    - "My old lover on the Danforth leaning on a cane\r\nCould be getting worse from
+      AIDS\r\nOr better from an accident"
+  - - '58'
+    - World Cup
+    - '2015-02-12 11:57:40.284677'
+    - '2015-03-27 19:22:49.334331'
+    - '6'
+    - '19'
+    - "the smoky Danforth men who barely let me in\r\nand glare at my spiral notebook,
+      my racing pen"
+  - - '60'
+    - Crabapple Jelly 2
+    - '2015-02-12 12:20:08.775305'
+    - '2015-03-13 14:06:04.79026'
+    - '18'
+    - '20'
+    - "Gather the tiny red-glinting fruit in mid-August\r\njust as the noise of the
+      Ex begins to imperil the apples’ ripening"
+  - - '61'
+    - Tsuen Hai Tong
+    - '2015-02-12 12:20:34.787366'
+    - '2015-03-13 15:38:01.492675'
+    - '18'
+    - '20'
+    - " ...Found\r\nmyself adrift in a Taoist funerary store, pondering\r\n how to
+      navigate to that other shore,\r\nwhat company to invite for the journey."
+  - - '62'
+    - Withrow Avenue
+    - '2015-02-12 12:20:52.992063'
+    - '2015-03-13 15:43:49.710763'
+    - '27'
+    - '20'
+    - "The red-and-yellow streetcar, smooth as a capsule\r\nwaits like a drug at the
+      end of the street,\r\nto pull you up the big hill into forgetfulness."
+  - - '63'
+    - Full Long Night Moon
+    - '2015-02-12 12:21:39.010858'
+    - '2015-03-13 14:16:50.566197'
+    - '50'
+    - '20'
+    - "Choppy, we thought, on the ferry crossing from the city\r\nto the Island, surrounded
+      by December's early sunset, a hem\r\nof saffron lining the horizon."
+  - - '64'
+    - City Limits
+    - '2015-02-12 12:23:15.921313'
+    - '2015-03-05 02:55:29.340637'
+    - '18'
+    - '20'
+    - "Etch with a willow stick the dusty borders\r\nof the city’s no-longer-safe
+      ravines\r\nrun a trickle of water into the lines."
+  - - '65'
+    - At the Ontario Science  Centre
+    - '2015-02-12 12:23:33.489546'
+    - '2015-03-13 13:58:14.595382'
+    - '8'
+    - '21'
+    - "Out of darkness, a lion gilds the air.\r\nSlowly we reach to touch its snout\r\nOur
+      hands dissolve to gold."
+  - - '66'
+    - Boardwalk, early morning
+    - '2015-02-12 12:24:45.433005'
+    - '2015-03-13 14:00:24.998062'
+    - '8'
+    - '21'
+    - "Walking through heavy fog\r\nwe see no forward\r\nno back\r\nonly now, here\r\nimmobilized
+      in a white dream."
+  - - '67'
+    - Winterizing
+    - '2015-02-12 12:25:32.196528'
+    - '2015-03-13 15:43:30.249957'
+    - '51'
+    - '21'
+    - "Workers are bedding the boardwalk,\r\nunwinding skinny red slats\r\nfrom snow
+      fence that straggles along."
+  - - '68'
+    - Dusk, Edwards Gardens
+    - '2015-02-12 12:26:53.789392'
+    - '2015-03-13 14:09:08.803884'
+    - '8'
+    - '21'
+    - "Pond poised like dark glass,\r\none duck, slipping head-smooth under water,\r\ntails
+      up silence"
+  - - '69'
+    - Don Valley Day
+    - '2015-02-12 12:27:21.847278'
+    - '2015-03-20 17:39:12.40113'
+    - '49'
+    - '21'
+    - "Helping to heal\r\nthe green valley, the greener river,\r\nby harvesting what
+      haste has tossed"
+  - - '70'
+    - When I went up to Rosedale
+    - '2015-02-12 20:39:34.86565'
+    - '2015-02-18 20:17:25.567686'
+    - '35'
+    - '22'
+    - "When I went up to Rosedale I thought of kingdom come...\r\nand roads that winds
+      their stately way to dead ends"
+  - - '73'
+    - 'April Beach: Scarborough Bluffs'
+    - '2015-02-12 20:43:51.808956'
+    - '2015-03-13 13:55:43.590975'
+    - '57'
+    - '23'
+    - "Mudslides come with spring,\r\nwhen earth, mad with moisture\r\nwants to tumble"
+  - - '74'
+    - Stripmall Subversive
+    - '2015-02-12 20:44:09.455967'
+    - '2015-03-17 18:27:06.076921'
+    - '57'
+    - '23'
+    - "between Pizza Pizza and the Chinese buffet,\r\nwith something for every appetite."
+  - - '80'
+    - Airport and Jetliner
+    - '2015-02-12 20:48:01.513299'
+    - '2015-03-17 18:21:57.172363'
+    - '12'
+    - '25'
+    - "Clear customs\r\n\r\nand stand up. The streets are standing\r\nwith you."
+  - - '84'
+    - My Advice is to Believe in Poetry and Nothing
+    - '2015-02-12 20:49:39.213532'
+    - '2015-03-27 19:48:37.622318'
+    - '12'
+    - '25'
+    - "Let's pretend it's summer, eat ice cream\r\nin the fog. I've lost the sense
+      of question\r\nI've expected of the city, so let's go\r\nto where it isn't and
+      \r\ntrace around its shape."
+  - - '85'
+    - Finch and the 427
+    - '2015-02-12 20:50:03.504161'
+    - '2015-03-13 14:15:35.471845'
+    - '12'
+    - '25'
+    - "          Finch Street\r\ndrums on above him, channelled through \r\nthe asphalt,
+      the \r\npads of my feet."
+  - - '87'
+    - 'The Earth is Round: Six Approaches to Malton, Ontario'
+    - '2015-02-12 20:51:59.030439'
+    - '2015-03-17 18:48:05.119013'
+    - '12'
+    - '25'
+    - "Twenty-one stops from my brother's house on the Danforth\r\nto Islington. Then
+      the MT 11 to the mall."
+  - - '88'
+    - The Humber is pretty fabulous, really
+    - '2015-02-12 20:53:12.642211'
+    - '2015-03-13 15:07:45.172267'
+    - '30'
+    - '26'
+    - "The Humber is too small for ships\r\nYet on its waters they still ply\r\nFor
+      those who see the ‘not there’ in all things:\r\nThe memory of canoes"
+  - - '89'
+    - If at times I claim flowers smile and rivers sings
+    - '2015-02-12 20:53:45.144859'
+    - '2015-03-27 19:24:31.945656'
+    - '30'
+    - '26'
+    - "I'm out on Vaughan Road where Taddle Creek runs under me\r\nDuped men drive
+      past me honking, I want to show them\r\nThe small buds just now in leaf alongside
+      the rivers,\r\nand they want to get fast to Bathurst and St. Clair."
+  - - '90'
+    - Alexandra Park
+    - '2015-02-12 20:54:19.994739'
+    - '2015-03-13 13:06:24.631388'
+    - '37'
+    - '27'
+    - "\"It's autumn, fall and the leaves have come\r\na' tumblin' down.\r\nThe park
+      is loaded with leaves and squirrels\""
+  - - '91'
+    - In Toronto With You
+    - '2015-02-12 20:54:57.141103'
+    - '2015-04-08 14:13:43.425386'
+    - '37'
+    - '27'
+    - "Do you mind if I skip Niagara Falls and the McMichael\r\nGive a pass to the
+      Chinese lions at the ROM\r\nDon't pat the pelvises on any stone camels\r\nSay
+      sod off to the sodding AGO\r\nSpend all my time at home."
+  - - '92'
+    - Bandits
+    - '2015-02-12 20:55:17.754404'
+    - '2015-03-27 19:26:47.243224'
+    - '40'
+    - '27'
+    - "Toward Valentine's Day, for the first time in months,\r\nthey agreed to meet
+      for the last time ever\r\nat the Café La Gaffe across from John's Italian,\r\n\r\njust
+      west of Yet Sung Dim Sum Buns and Pastry."
+  - - '93'
+    - Clues
+    - '2015-02-12 20:57:06.338393'
+    - '2015-03-27 19:29:24.645573'
+    - '29'
+    - '28'
+    - "\"she still looking for you - \r\ntry the Black Bottom - Bathurst above Bloor,\r\nOakwood
+      and Eglinton - even the suburbs them,\r\nbut don't look for indigo hair and
+      \r\nskin of lime at Ontario Place,"
+  - - '96'
+    - The City is for People
+    - '2015-02-12 21:00:08.772581'
+    - '2015-03-05 03:09:17.335568'
+    - '52'
+    - '29'
+    - "The City is about stories\r\nYours, mine, what we want to hear\r\nLook, Listen
+      , Linger"
+  - - '98'
+    - Yorkville Memories
+    - '2015-02-12 21:01:10.075049'
+    - '2015-03-17 17:29:00.630263'
+    - '53'
+    - '29'
+    - "On the streets of To-ron-to\r\nSomething deep was underway\r\nYorkville Avenue
+      was the place where hippies came to play"
+  - - '102'
+    - Albino Squirrels
+    - '2015-02-12 21:03:52.092779'
+    - '2015-03-27 19:29:46.161157'
+    - '54'
+    - '29'
+    - "I needed stillness as I walked on Queen Street West.\r\nSpotting a bench, in
+      the park-like grounds\r\nof CAMH, off the main pavement, I ventured forth."
+  - - '104'
+    - Flag Day
+    - '2015-02-12 21:05:11.029241'
+    - '2015-03-05 03:01:29.883471'
+    - '55'
+    - '29'
+    - "I’m gonna wave, wave, wave my flag\r\n‘Cause winter in Toronto is such a drag"
+  - - '106'
+    - Just a Little Acorn
+    - '2015-02-12 21:06:40.665014'
+    - '2015-03-17 18:19:03.013208'
+    - '55'
+    - '29'
+    - "Just a little acorn found in Dufferin Grove Park\r\nJust a little acorn waiting
+      for a spark\r\nWill you be that spark, will you be that spark"
+  - - '112'
+    - Embrace the walls
+    - '2015-02-12 21:09:24.582212'
+    - '2015-03-13 14:10:47.610433'
+    - '31'
+    - '30'
+    - "we are unfinished humans\r\nin an unfinished city\r\nwhere the wind blows the
+      unleashed message\r\nof opportunity and pride"
+  - - '115'
+    - The lake is over us
+    - '2015-02-12 21:10:40.381781'
+    - '2015-03-13 16:08:12.552434'
+    - '31'
+    - '30'
+    - "it was easy for dreams to sail upwards\r\nit was easy for the rain to swell
+      and fall"
+  - - '119'
+    - Toronto
+    - '2015-02-12 21:12:16.248707'
+    - '2015-03-05 03:09:38.50426'
+    - '36'
+    - '30'
+    - "I have been disloyal\r\nlured into quick and forgettable infidelities\r\nwith
+      bridges \r\nrivers and churches"
+  - - '120'
+    - Scent of gods in Chinatown
+    - '2015-02-12 21:14:23.569346'
+    - '2015-03-13 14:58:44.093774'
+    - '36'
+    - '30'
+    - "even if I end like lost Diomedes\r\nlike a crab's corpse\r\nfor a moment\r\nI
+      smelled the scent of gods"
+  - - '123'
+    - Large two forms
+    - '2015-02-12 22:08:31.842132'
+    - '2015-03-13 14:37:16.226364'
+    - '36'
+    - '30'
+    - "through the arches of your sternum\r\nwhispered dreams and waitings\r\nembrace
+      the wind"
+  - - '125'
+    - Cockroach
+    - '2015-02-12 22:09:17.392789'
+    - '2015-03-27 19:32:13.08036'
+    - '36'
+    - '30'
+    - "here at Mars\r\nthere are no retired teachers\r\nnibbling slowly and quoting\r\nold
+      dead languages\r\njust lonesome TTC employees"
+  - - '127'
+    - Garbage for all seasons
+    - '2015-02-12 22:10:05.049614'
+    - '2015-03-05 03:01:50.775225'
+    - '14'
+    - '30'
+    - "I always felt like a citizen of the world\r\nuntil I walked the streets of
+      Toronto"
+  - - '128'
+    - Open College
+    - '2015-02-12 22:11:59.093032'
+    - '2015-03-13 14:45:19.905278'
+    - '14'
+    - '30'
+    - "the bars of College street are opening\r\nopen Brooklyn\r\nyou of granita\r\nand
+      of espressos\r\ntables on the sidewalks and children of immigratory waves"
+  - - '131'
+    - Honest Ed's
+    - '2015-02-12 22:13:46.390052'
+    - '2015-03-13 14:20:07.155178'
+    - '14'
+    - '30'
+    - "can't you see the fear of poverty\r\nthe steps of a second life\r\nslippery
+      from sweat?"
+  - - '132'
+    - Cinematic Taxi
+    - '2015-02-12 22:14:07.095849'
+    - '2015-03-05 02:54:47.409542'
+    - '14'
+    - '30'
+    - "its not a city for lovers  Toronto\r\nthe streets are long and wide\r\nthe
+      buildings severe"
+  - - '133'
+    - Multicultural Christmas
+    - '2015-02-12 22:14:19.976391'
+    - '2015-03-27 19:33:13.684117'
+    - '14'
+    - '30'
+    - "you will be there too cuban engineer\r\nbonus in a tourist package\r\n(walking
+      one day with a flag)\r\ntoward the Skydome"
+  - - '134'
+    - Eboli
+    - '2015-02-12 22:14:50.325887'
+    - '2015-03-30 20:14:58.283536'
+    - '14'
+    - '30'
+    - "Rome and Kensington market\r\nburn\r\nbut no one knows\r\n\r\nhosts of seagulls\r\nfly
+      on the rotten plain\r\ndistant smells shatter\r\nagainst the doors of neoclassic
+      garages"
+  - - '135'
+    - Two Fat Girls
+    - '2015-02-13 12:15:42.269375'
+    - '2015-03-27 19:38:53.451959'
+    - '7'
+    - '31'
+    - "in the 1970s\r\nwe walked St. Clair Avenue\r\nfrom Dufferin to Lansdowne\r\nas
+      if it was our home town\r\nas if we owned it"
+  - - '136'
+    - Grace Street Summer
+    - '2015-02-13 12:17:49.408923'
+    - '2015-04-08 13:48:55.674744'
+    - '15'
+    - '31'
+    - "the moon is almost round tonight\r\na plane just flew over it\r\nlike a cartoon\r\nit
+      is lifting over Tony's garage\r\nripe as a honeydew melon"
+  - - '137'
+    - St. Joseph's Girls
+    - '2015-02-13 12:20:20.706403'
+    - '2015-03-13 15:03:02.629882'
+    - '7'
+    - '31'
+    - "Angela's sister wore a\r\nlong white wedding gown\r\nand you couldn't even
+      tell\r\nthat she had been stabbed\r\nseventeen times\r\nthat early morning \r\non
+      Beaver St."
+  - - '138'
+    - Good Friday, the Passion
+    - '2015-02-13 12:20:48.182261'
+    - '2015-03-27 19:37:02.725109'
+    - '7'
+    - '31'
+    - "i want to stand at the corner\r\nof Grace and Mansfield Avenue\r\non Good Friday\r\nas
+      the procession\r\nmakes its way unhurried\r\nthrough the less catered streets\r\nof
+      my trendy neighbourhood"
+  - - '139'
+    - The First House
+    - '2015-02-13 12:22:26.301379'
+    - '2015-03-27 19:36:27.881725'
+    - '7'
+    - '31'
+    - "Aldergrove Avenue\r\nwas a dead end street\r\nby the railway tracks\r\na multicultural
+      street\r\nlong before the government\r\nmade it policy"
+  - - '140'
+    - Picasso had Paris
+    - '2015-02-13 12:22:46.014953'
+    - '2015-03-27 19:37:33.389263'
+    - '7'
+    - '31'
+    - "i have Clinton and College\r\non a January night\r\nwith a skinny cappuccino\r\nand
+      a DuMaurier light"
+  - - '141'
+    - The Neighbourhood is Changing
+    - '2015-02-13 12:23:18.351521'
+    - '2015-03-13 15:10:06.16438'
+    - '48'
+    - '31'
+    - "the old men \r\nhave nowhere to go\r\nbanished, corroded barges\r\nin some
+      abandoned port\r\nthey sit"
+  - - '142'
+    - Dundas and Sackville
+    - '2015-02-13 12:24:37.572068'
+    - '2015-03-27 19:35:02.216954'
+    - '48'
+    - '31'
+    - "this evening my teenage daughter is painting children's faces\r\nin the church
+      hall of St. Cyril"
+  - - '143'
+    - Reading at the Moonlight Café
+    - '2015-02-13 12:26:05.72565'
+    - '2015-03-20 17:43:43.716371'
+    - '19'
+    - '31'
+    - "We sat together          \r\nMalca and me                                                              \r\nthe
+      Brigantine room                                     \r\nHarbourfront                                                                   pushing
+      our words                                                 \r\nin two slim volumes."
+  - - '144'
+    - The Gatto Nero
+    - '2015-02-13 12:26:23.03572'
+    - '2015-03-13 15:07:15.120875'
+    - '19'
+    - '31'
+    - "nothing on College Street\r\nis about sentiment anymore\r\nit is lifestyle\r\nit
+      is youth\r\nit is money"
+  - - '145'
+    - A Sausage for Christmas
+    - '2015-02-13 12:26:52.374739'
+    - '2015-03-27 19:38:15.85853'
+    - '19'
+    - '31'
+    - "when Woolworth's department store\r\nstill existed on the corner of\r\nSt.
+      Clair and Dufferin Avenue\r\nin the late nineteen seventies [...]"
+  - - '148'
+    - A Girl Made of Lavender
+    - '2015-02-13 12:28:49.482204'
+    - '2015-03-27 19:39:24.231048'
+    - '47'
+    - '31'
+    - "the next day he brought Lynne caramels\r\nhe'd picked up at Woolworth's at
+      the corner of\r\nDanforth and Woodbine"
+  - - '151'
+    - Yonge Street Saturday Night
+    - '2015-02-13 12:37:32.799198'
+    - '2015-03-13 15:45:54.210816'
+    - '39'
+    - '32'
+    - "Except when the theatre crowds engulf the sidewalks\r\n at nine, at eleven-thirty,\r\n
+      this street is lonely"
+  - - '152'
+    - Bad Luck
+    - '2015-02-13 12:38:03.380415'
+    - '2015-03-13 13:59:30.658607'
+    - '44'
+    - '32'
+    - "This week my luck was all bad;\r\nmet her twice, once on Victoria\r\nthe other
+      time Queen near Church."
+  - - '153'
+    - Decision on King Street
+    - '2015-02-13 12:38:23.647061'
+    - '2015-03-17 16:54:52.279133'
+    - '11'
+    - '32'
+    - "the woman stopped with her back to us\r\nfumbling in her purse for either\r\na
+      dime for that pencil or a subway token"
+  - - '154'
+    - Love poem
+    - '2015-02-13 12:39:31.852315'
+    - '2015-03-13 14:38:53.99709'
+    - '4'
+    - '33'
+    - "At St. George Station\r\nthere is a sign that reads\r\n\"Next Train: Finch\"\r\nThe
+      sign can be changed,\r\nbut the train always\r\ngoes to Finch"
+  - - '155'
+    - III
+    - '2015-03-05 03:04:07.150882'
+    - '2015-03-05 03:04:07.150882'
+    - '45'
+    - '10'
+    - "the damaged horizon of skyscraping walls,\r\nnights insomniac with pinholes
+      of light"
+  - - '157'
+    - Fafard's cows take Toronto
+    - '2015-03-13 14:14:59.705671'
+    - '2015-03-13 14:14:59.705671'
+    - '58'
+    - '34'
+    - "meandering bovines ignoring the signs\r\nin the Skydome parking lots\r\nplopping
+      great wet cow flops\r\nat the Florsheimed foot of Bay Street!"
+  - - '158'
+    - Junction Elegies II
+    - '2015-03-13 14:33:54.15097'
+    - '2015-03-13 14:34:11.709751'
+    - '3'
+    - '2'
+    - Maple leaves in High Park smoulder like embers beneath a dark western sky, the
+      eastern torch song of early morning
+  - - '159'
+    - Junction Elegies V
+    - '2015-03-13 14:35:16.544528'
+    - '2015-03-13 14:35:16.544528'
+    - '3'
+    - '2'
+    - "This autumn morning, accents of light fall\r\non trunk and canopy, and the
+      mills of the Junction are a beacon,\r\nthe branching train tracks still, still
+      drawing me back to you."
+  - - '160'
+    - Rub a Dub Style Inna Regent Park
+    - '2015-03-13 14:55:10.829629'
+    - '2015-03-13 14:55:10.829629'
+    - '59'
+    - '35'
+    - "\"forget yu troubles and dance\"\r\nforget yu bills them\r\nan irie up yuself\r\nforget
+      yu dreams gathering dusts\r\non the shelves"
+  - - '161'
+    - Slum House
+    - '2015-03-13 15:01:40.463324'
+    - '2015-03-13 15:01:40.463324'
+    - '60'
+    - '36'
+    - "There's even a street-car goes past.                      \r\nAin't it got
+      a craw!                                           \r\nYou jam cattle in like
+      that                                            \r\nAnd you'll hear from the
+      law!"
+  - - '162'
+    - The Eviction of the Insolvent  Artist
+    - '2015-03-13 15:05:42.283783'
+    - '2015-03-13 15:11:10.249717'
+    - '31'
+    - '30'
+    - "Toronto you don't need perennial buildings\r\nyour story is mercurial\r\nyour
+      human element is immortal\r\nit is not museumable"
+  - - '163'
+    - II
+    - '2015-03-13 15:25:55.077807'
+    - '2015-03-13 15:25:55.077807'
+    - '45'
+    - '10'
+    - "This slender lacuna beguiles them,\r\na man frothing a biblical lexis at Christie\r\nPits,
+      the small barren incline where his mad sermons\r\ncursed bewildered subway riders,
+      his faith unstrained"
+  - - '164'
+    - X
+    - '2015-03-13 15:26:53.399859'
+    - '2015-03-13 15:26:53.399859'
+    - '45'
+    - '10'
+    - "this morning, in a house long abandoned\r\nshe saw the doorway sheeted in the
+      lint\r\nof spiders, the dusty light, the crumbling braces,\r\nthe man falling
+      down saying, \"thirsty\""
+  - - '165'
+    - XXII
+    - '2015-03-13 15:28:35.157139'
+    - '2015-03-13 15:28:35.157139'
+    - '45'
+    - '10'
+    - "At the Sea King Fish Market, \r\nthe Portuguese men have learned another language,
+      \"Yes sweetie, yes dahling, and for you only this good good price.\""
+  - - '166'
+    - XXIII
+    - '2015-03-13 15:30:57.536425'
+    - '2015-04-07 18:05:38.264816'
+    - '45'
+    - '10'
+    - "I'll tell you what I've seen here at Yonge and Bloor,\r\nAt this crossroad,
+      the air is elegiac with it\r\nwhiffs and cirri of all emotion, need and vanity\r\ndesire,
+      brazen as a killing"
+  - - '167'
+    - XXIV
+    - '2015-03-13 15:32:23.346438'
+    - '2015-03-13 15:32:23.346438'
+    - '45'
+    - '10'
+    - "a ride                                                               \r\non
+      the ferry to Hanlan's Point, nakedness          \r\nshe needed                                                                       could
+      find someplace to be naked, to slip her body"
+  - - '168'
+    - XXVIII
+    - '2015-03-13 15:33:35.647035'
+    - '2015-03-13 15:33:35.647035'
+    - '45'
+    - '10'
+    - "your senses spill like water, the tremolos of Leroy Jenkins’ violin exiting
+      \r\nthe Horseshoe Tavern"
+  - - '169'
+    - XXXI
+    - '2015-03-13 15:34:23.328445'
+    - '2015-03-13 15:34:23.328445'
+    - '45'
+    - '10'
+    - "once she wore powder blue skirts amd embroidered\r\nIndian blouses, then she
+      stood on the corner of\r\nOakwood & St. Clair waiting for a bus, the clarity\r\nof
+      the traffic, the sky, the day, her life"
+  - - '170'
+    - Victorians
+    - '2015-03-13 15:40:36.306135'
+    - '2015-03-13 15:40:36.306135'
+    - '58'
+    - '34'
+    - "Temperance dried up these streets\r\nin nineteen oh something\r\n& thirst became
+      the hidebound\r\nneighbourhood legacy -\r\noasis reversed."
+  - - '171'
+    - Xtraordinaire (722 Queen Street  West) 1994-96
+    - '2015-03-13 15:45:29.770693'
+    - '2015-03-23 14:40:24.794699'
+    - '25'
+    - '13'
+    - "That glamour may be something else, walking slowly and painfully,\r\nso there
+      are no mistakes.  The discomfort, the drag.\r\nOf effacing yourself; the sublimation.
+      \ Of recovering the grotesque."
+  - - '172'
+    - Horizons 2
+    - '2015-03-13 16:01:44.614147'
+    - '2015-03-27 21:11:42.551324'
+    - '34'
+    - '9'
+    - "I'm not the first to      stare\r\n      wide-eyed\r\n     at this great dome.\r\nFeel
+      \     the rush of bodies around me,\r\n\r\ncacophony of conversations, chatter
+      of children repeated recognitions and  departures."
+  - - '173'
+    - Zumburger
+    - '2015-03-24 20:42:26.5472'
+    - '2015-03-24 20:42:26.5472'
+    - '23'
+    - '19'
+    - "       Zumburger across from Rochdale where he shared a gnostic\r\nwith two
+      other students you can’t think of their names it’s not important  Go to\r\nthe
+      Zumburger where you sit watching him bring two coffees down the stairs \r\nthick
+      white mugs on a brown plastic tray he would always spill some nicotine"
+  - - '174'
+    - Dining at the Savarin
+    - '2015-03-24 20:46:06.413137'
+    - '2015-03-24 20:46:06.413137'
+    - '62'
+    - '37'
+    - "because I too have come to partake of this awesome buffet\r\ndetermined to
+      get my money's worth by going back again\r\nand again to refill my plate even
+      when\r\nI no longer hunger"
+  - - '175'
+    - The Winemaker (for Al Purdy)
+    - '2015-03-24 20:48:22.471871'
+    - '2015-03-24 20:48:22.471871'
+    - '63'
+    - '37'
+    - "the winemaker comes to Toronto\r\n(can't stand the place just passing through)\r\n
+      \    and leaves a pile of urgent\r\npoems in his wake and leaves again"
+  - - '177'
+    - Lines for 999 Queen Street
+    - '2015-03-25 17:03:04.827472'
+    - '2015-03-25 17:03:04.827472'
+    - '65'
+    - '37'
+    - "It’s a madhouse in my city or anywhere in the world\r\nWhere the cafeteria
+      is huge and the food is small\r\nWhere the soup is thin and the interns are
+      large\r\nWhere there’s a piano in the corner no-one dares to play"
+  - - '178'
+    - Projection
+    - '2015-03-30 18:39:20.599257'
+    - '2015-03-30 18:39:20.599257'
+    - '32'
+    - '12'
+    - "Beside a dry canoe perched\r\nLike a red Dali moustache\r\nOn a plateau, a
+      black dog whirs\r\nIn the ziggurat grass"
+  - - '179'
+    - Janus
+    - '2015-03-30 18:43:30.353783'
+    - '2015-03-30 18:43:30.353783'
+    - '32'
+    - '12'
+    - "Gods in their own ways, these towers,\r\nMotionless as stars, their bones mixed
+      with sand\r\nThat they may never forget their allegiances."
+  - - '180'
+    - Without Sunlight
+    - '2015-03-31 20:33:51.535076'
+    - '2015-03-31 20:33:51.535076'
+    - '66'
+    - '39'
+    - ''
+  - - '182'
+    - Late Winter At Sunnyside Pavilion
+    - '2015-03-31 20:42:58.562651'
+    - '2015-03-31 20:42:58.562651'
+    - '66'
+    - '39'
+    - ''
+  - - '183'
+    - My April With Import
+    - '2015-03-31 20:46:34.87249'
+    - '2015-03-31 20:46:34.87249'
+    - '66'
+    - '39'
+    - ''
+  - - '184'
+    - Sorauren Park
+    - '2015-03-31 20:51:24.240032'
+    - '2015-04-02 01:43:35.416278'
+    - '66'
+    - '39'
+    - "I sit at Joe's, listen\r\nto the creak\r\nof rusted chain\r\nas the heavy parents\r\nswing\r\nfor
+      their children's\r\namusement."
+  - - '185'
+    - Ontario
+    - '2015-04-02 16:02:38.165285'
+    - '2015-04-02 16:02:38.165285'
+    - '67'
+    - '40'
+    - On my last trip we went to a disco in the Park Plaza, where I helped a girl
+      in a bin-liner dress to find her contact lens.
+  - - '186'
+    - Avenue and Road
+    - '2015-04-02 16:06:49.303796'
+    - '2015-04-02 16:06:49.303796'
+    - '69'
+    - '41'
+    - "We stroll home\r\nalong Avenue Road.\r\nThe chariot rolls past\r\nthe wrought
+      iron-clad\r\nfurrier window, past the banal kid spa, to the Rorschach\r\nhalls
+      of interlocking driveways,\r\nsymmetrical sconces,\r\nand dwarf roses."
+  - - '187'
+    - Bed Song
+    - '2015-04-02 16:10:56.08259'
+    - '2015-04-02 16:10:56.08259'
+    - '70'
+    - '22'
+    - "Yonge Street, Bloor Street,\r\nQueen Street, King:\r\nCatch an itchy monkey\r\nWith
+      a piece of string.\r\n\r\nEaton's, and Simpson's,\r\nAnd Honest Ed's:\r\nGive
+      him his pyjama pants\r\nAnd throw him into beds!"
+  - - '188'
+    - Walking Home, Scarborough
+    - '2015-04-07 13:50:24.353083'
+    - '2015-04-07 13:50:24.353083'
+    - '71'
+    - '42'
+    - "and all earth's winter wool is\r\nbleared and stained and\r\nradiostore music
+      throbs\r\ntempering sidewalk grime and roadslung spatter."
+  - - '189'
+    - Thirty-Six Ways of Looking at Toronto Ontario
+    - '2015-04-07 13:59:07.977857'
+    - '2015-04-07 15:09:38.976422'
+    - '72'
+    - '43'
+    - "the city's swathed in haze, in its vision\r\nnot magic or majestic, it is a
+      gathering\r\nof human beings among the trees, it is the city"
+  - - '190'
+    - 'A Bus Along St. Clair: December'
+    - '2015-04-07 16:56:07.769477'
+    - '2015-04-07 16:56:07.769477'
+    - '73'
+    - '44'
+    - "I am the old woman\r\nsitting across from you on the bus,\r\nher shoulders
+      drawn up like a shawl"
+  - - '191'
+    - Rock Bottom
+    - '2015-04-07 17:07:26.566931'
+    - '2015-04-07 17:07:26.566931'
+    - '74'
+    - '45'
+    - "I write down now\r\na fiction of your arm\r\nor of that afternoon\r\nin Union
+      Station\r\nwhen we both were lost"
+  - - '192'
+    - '1958'
+    - '2015-04-07 17:13:11.418497'
+    - '2015-04-07 17:13:11.418497'
+    - '75'
+    - '37'
+    - "1958 was a fabulous year\r\nwhen you parked in the lot at the lakeshore\r\nnext
+      to the Palais Royale"
+  - - '193'
+    - Me and the Runner
+    - '2015-04-07 17:16:57.54232'
+    - '2015-04-07 17:16:57.54232'
+    - '75'
+    - '37'
+    - "I follow him into the evening lengthening light,\r\nby Woodbine and Danforth
+      our shadows have\r\nattained a perfect intimacy"
+  - - '194'
+    - The Park, Twenty Years Later
+    - '2015-04-07 17:20:08.832733'
+    - '2015-04-07 17:20:08.832733'
+    - '75'
+    - '37'
+    - "It's Christie Pits at the end of summer,\r\nThe colossal sadness of the end
+      of summer."
+  - - '195'
+    - The Wah Mai Cafe
+    - '2015-04-07 17:22:10.356325'
+    - '2015-04-07 17:22:10.356325'
+    - '75'
+    - '37'
+    - "I am a writer I said.\r\nAnd I work at Boys and Girls House which is\r\nA children's
+      library. Actually, I'm just a page\r\nBut one day I'm going to be a Book."
+  - - '196'
+    - Sunlight at Sherbourne and Bloor
+    - '2015-04-07 17:24:19.968724'
+    - '2015-04-07 17:24:19.968724'
+    - '75'
+    - '37'
+    - "Today has been Friday; that was its name - \r\nFriday - and the sunlight at
+      Sherbourne \r\nand Bloor completes the city."
+  - - '197'
+    - A Memory of  Xaviera
+    - '2015-04-07 17:27:44.379868'
+    - '2015-04-07 17:27:44.379868'
+    - '75'
+    - '37'
+    - "It was 3 A.M. and I was half asleep\r\nin the kitchen of the Trojan Horse…"
+  - - '198'
+    - Nice Italian Girls
+    - '2015-04-07 18:10:17.191064'
+    - '2015-04-07 18:10:17.191064'
+    - '76'
+    - '46'
+    - "Evening on old College Street,\r\nthe sun sets, cafes fill up\r\nwith nice
+      Italian girls who drive new cars\r\nand wear designer clothes"
+  - - '199'
+    - Vittorio
+    - '2015-04-07 18:14:18.175285'
+    - '2015-04-07 18:14:18.175285'
+    - '76'
+    - '46'
+    - "Anyway, about going out - I still like to dress\r\nand sometimes wear my beret,\r\nat
+      the corner, when the light is right\r\nand I look up the Bathurst Street hill.\r\nIt
+      is as if I'm leaving the town\r\non a day's outing - money and time\r\nhave
+      always given me this feeling."
+  - - '200'
+    - Epithalamium
+    - '2015-04-07 18:15:51.542769'
+    - '2015-04-07 18:15:51.542769'
+    - '77'
+    - '47'
+    - "Stretch of limousine on the avenue,\r\npast the swank of the Four Seasons Hotel,
+      the Park Hyatt, Yorkville galleries, imitation trattorias."
+  - - '201'
+    - Testament
+    - '2015-04-07 18:17:19.039396'
+    - '2015-04-07 18:17:19.039396'
+    - '77'
+    - '47'
+    - "I would count the birds in the square at City Hall\r\nas if some numerical
+      sequencing would be a code\r\nto explain the numbers I have memorized."
+  - - '202'
+    - 6 months of the CN tower
+    - '2015-04-07 18:21:24.531535'
+    - '2015-04-07 18:21:24.531535'
+    - '78'
+    - '48'
+    - "                                           under it\r\nthe encouragement of
+      a million people\r\nwho measure it by where they cannot go."
+  - - '203'
+    - 'Elaborate (Toronto #2)'
+    - '2015-04-07 18:29:43.723215'
+    - '2015-04-07 18:29:43.723215'
+    - '79'
+    - '49'
+    - "He was on a streetcar home\r\ntalking on his cellphone\r\nso he couldn't elaborate."
+  - - '204'
+    - 'Union Station: Toronto'
+    - '2015-04-07 18:49:59.55328'
+    - '2015-04-07 18:49:59.55328'
+    - '80'
+    - '50'
+    - "Under wet black umbrellas\r\nThe bewildered immigrants\r\nHuddle together\r\nHolding
+      their heavy luggage\r\nIn front of Union Station."
+  - - '205'
+    - Il Sangue
+    - '2015-04-07 18:56:54.47498'
+    - '2015-04-07 18:56:54.47498'
+    - '80'
+    - '50'
+    - "Across a cafe in Toronto's \"Little Italy,\"\r\nLet us play our mandolins\r\nAnd
+      sing O Sole Mio! The joy is ours."
+  - - '206'
+    - The Garret
+    - '2015-04-07 18:59:24.168822'
+    - '2015-04-07 18:59:24.168822'
+    - '80'
+    - '50'
+    - "It is a cold Toronto winter night—\r\nA night for smoking sweet hashish…"
+  - - '207'
+    - The Metaphysics of Water
+    - '2015-04-07 20:34:46.973346'
+    - '2015-04-07 20:34:46.973346'
+    - '81'
+    - '51'
+    - The point to be made here is that raccoons in Toronto do not live by water.
+  - - '208'
+    - The Perfect Victim
+    - '2015-04-08 19:49:37.362014'
+    - '2015-04-08 19:49:37.362014'
+    - '82'
+    - '52'
+    - "You tell the poem: do what I f*cking say\r\nOr I'm really going to have to
+      hurt you,\r\nLike how Cito's Blue Jays spanked the Yankees\r\n7-6 at the SkyDome
+      this afternoon."
+  - - '209'
+    - Fowl
+    - '2015-04-08 19:56:17.401094'
+    - '2015-04-08 20:02:52.791396'
+    - '82'
+    - '52'
+    - "Park in the Guildwood GO lot and get stoned.\r\nWho's there? Nay, answer me.
+      Stand\r\n\r\nAnd unfold yourself. Her heart begins to pound."
+  - - '210'
+    - Lot's Wife
+    - '2015-04-08 20:07:41.086169'
+    - '2015-04-08 20:07:41.086169'
+    - '82'
+    - '52'
+    - "Overcome by the ordinary sight\r\nOf two figures just walking up Bellwoods,\r\nInto
+      the middle of our life's twilight\r\nHesitating at Henderson, and then\r\nBearing
+      down on Grace Street again,"
+  - - '211'
+    - The Scarborough Grace
+    - '2015-04-08 20:08:29.238141'
+    - '2015-04-08 20:08:29.238141'
+    - '82'
+    - '52'
+    - "Five or six times a day I see him walk\r\nDown Grace Street to St. Francis
+      church, and knock\r\nAnd pull its wooden doors, always shocked\r\nThat his entitled
+      holy place is locked."
+  - - '212'
+    - The Scarborough Bluffs
+    - '2015-04-08 20:11:24.102156'
+    - '2015-04-08 20:11:24.102156'
+    - '82'
+    - '52'
+    - "I leave the zoo with the moon on the park,\r\nThe wolves asleep, the lions
+      going down\r\n(even the sun leaves Scarborough before it's dark)"
+  - - '213'
+    - Parkdale, then Princess Street
+    - '2015-04-08 20:13:01.591191'
+    - '2015-04-08 20:13:01.591191'
+    - '82'
+    - '52'
+    - "But time outbids all comers, and we die\r\nExpensively in Princess Margaret\r\nWho
+      was herself once so beautiful"
+  - - '214'
+    - The Have-A-Nap Motel
+    - '2015-04-08 20:13:52.177038'
+    - '2015-04-08 20:13:52.177038'
+    - '82'
+    - '52'
+    - "From skin to hair\r\nFrom hair to meadow,\r\nWhere the Scarborough assumes
+      it\r\nAnd continues"
+  - - '215'
+    - The Devil
+    - '2015-04-08 20:17:07.769422'
+    - '2015-04-08 20:17:07.769422'
+    - '82'
+    - '52'
+    - "Claw at your fastenings,\r\nAnd crawl, Christ, up Grace Street\r\nWith your
+      hair Karly curled,"
+  - - '216'
+    - Hogg Begins Again
+    - '2015-04-09 17:33:03.684906'
+    - '2015-04-09 17:33:03.684906'
+    - '83'
+    - '53'
+    - "but how in hell did his destination\r\ncome to be at Sheppard Station?"
+  - - '217'
+    - Hogg Aghast
+    - '2015-04-09 17:39:27.021401'
+    - '2015-04-09 17:39:27.021401'
+    - '83'
+    - '53'
+    - "At Friar's Tavern\r\nDorado the dwarf disc jockey\r\ntook his seat by the door."
+  - - '218'
+    - Doctor Ded
+    - '2015-04-09 17:50:50.133928'
+    - '2015-04-09 19:21:50.546105'
+    - '83'
+    - '53'
+    - "Hogg had a bone and he went to pick it,\r\nsetting flares in Union Station"
+  - - '219'
+    - The Narrow Gate
+    - '2015-04-09 17:52:50.671395'
+    - '2015-04-09 17:52:50.671395'
+    - '83'
+    - '53'
+    - "Hogg was home again, in Osgoode Lane\r\namong the lawyers shooting dice"
+  - - '220'
+    - Judas Priest
+    - '2015-04-09 17:55:02.51508'
+    - '2015-04-09 17:55:02.51508'
+    - '83'
+    - '53'
+    - "I am the Pussy King of Dundas\r\n          Station"
+  - - '221'
+    - Out of the Tomb Sheets
+    - '2015-04-09 18:23:23.62251'
+    - '2015-04-09 18:23:23.62251'
+    - '83'
+    - '53'
+    - "               at The Place of Condemnation,\r\nUnion Station, beak-nosed,
+      bent forward,\r\nas if eager to flush some truth from the hedge of lies"
+  - - '222'
+    - Border Catechism
+    - '2015-04-09 18:29:57.647627'
+    - '2015-04-09 18:29:57.647627'
+    - '84'
+    - '54'
+    - "Everyplace I go is Chinatown\r\nthese days when pandemonium need no longer\r\nbe
+      a handicap"
+  - - '223'
+    - Deahbed Ramblings of Arthur Heron
+    - '2015-04-09 18:30:55.313067'
+    - '2015-04-09 18:30:55.313067'
+    - '84'
+    - '54'
+    - "You ask about this place?\r\nIndeed it was muddy as they say\r\nbut there was
+      clarity."
+  - - '224'
+    - XXVI
+    - '2015-04-09 18:45:51.722729'
+    - '2015-04-09 18:45:51.722729'
+    - '85'
+    - '38'
+    - "Nights I snuck into the old Hogtown City Morgue\r\n        to punctuate my
+      woes on an I.B.M. Selectric."
+  - - '225'
+    - Christie Pits in Autumn
+    - '2015-04-09 18:46:58.946138'
+    - '2015-04-09 18:46:58.946138'
+    - '84'
+    - '54'
+    - "Some old quarries fill\r\nwith water, this one fills\r\nwith shadow."
+  - - '226'
+    - XXVII
+    - '2015-04-09 18:48:37.438357'
+    - '2015-04-09 18:48:37.438357'
+    - '85'
+    - '38'
+    - "So, I vamoosed to Queen's Park,\r\nand the Ontario Elections Commission,\r\nand
+      thrived, easterly, in the tide-sodden Beaches,"
+  - - '227'
+    - XXVIII
+    - '2015-04-09 18:53:02.945932'
+    - '2015-04-09 18:53:02.945932'
+    - '85'
+    - '38'
+    - "       But I fled the Provincial Parliament\r\n(ochre architecture plagiarizing
+      a Hindu temple),\r\n        sick of seeing Rhodes Scholar Socialist flinch each
+      time my black face\r\nsurprised him in a stairwell."
+  - - '228'
+    - LX
+    - '2015-04-09 18:53:54.420504'
+    - '2015-04-09 18:53:54.420504'
+    - '85'
+    - '38'
+    - "     and now rusticating in T.O., this Big Crab Apple,\r\nthis wanna-be, instantly
+      has-been Manhattan"
+  - - '229'
+    - Wedding Bells
+    - '2015-04-09 19:32:18.42026'
+    - '2015-04-09 19:32:18.42026'
+    - '83'
+    - '53'
+    - "In Museum Station\r\n         he saw\r\nan old railroad handcar"
+  - - '230'
+    - The Sphinx in Toronto
+    - '2015-04-09 21:09:42.529217'
+    - '2015-04-09 21:09:42.529217'
+    - '86'
+    - '55'
+    - "And we cut a tunnel, another, and another, and in all of them\r\nI find only
+      stations of my mind, fragments of what I've lived,"
+  - - '232'
+    - A Day Goes By
+    - '2015-04-14 14:30:35.771632'
+    - '2015-04-14 14:30:35.771632'
+    - '87'
+    - '57'
+    - "waiting at Union Station—\r\n      clock ticks\r\n    pawns line up"
+  - - '233'
+    - Anglosaxon Street
+    - '2015-04-14 16:43:04.95852'
+    - '2015-04-14 16:43:04.95852'
+    - '88'
+    - '58'
+    - "Hoy!  with sunslope,  shrieking over hydrants,\r\nflood from learninghall  the
+      lean fingerlings,\r\nNordic, nobblecheeked, not all clean of nose,\r\nLeaping
+      Commando-wise  into leprous lanes."
+  - - '234'
+    - Beyond the Soapstone
+    - '2015-04-16 13:37:57.872794'
+    - '2015-04-16 13:37:57.872794'
+    - '89'
+    - '57'
+    - "Standing in the Aboriginal Arts Gallery,\r\nmy eyes lock on\r\n             a
+      carved soapstone."
+
+---
+locations:
+  columns:
+  - id
+  - name
+  - address
+  - longitude
+  - latitude
+  - created_at
+  - updated_at
+  - image_url
+  - image_credit
+  - image_credit_url
+  records:
+  - - '3'
+    - High Park
+    - High Park
+    - "-79.4636903"
+    - '43.6465479'
+    - '2015-02-05 02:18:55.902732'
+    - '2015-03-17 19:27:05.626445'
+    - ''
+    - ''
+    - ''
+  - - '4'
+    - Greenwood Station
+    - Greenwood Station Toronto
+    - "-79.330422"
+    - '43.68258'
+    - '2015-02-05 02:19:13.654444'
+    - '2015-04-08 20:02:52.529428'
+    - ''
+    - ''
+    - ''
+  - - '6'
+    - Woodbine Station
+    - Woodbine Station Toronto
+    - "-79.312232"
+    - '43.686458'
+    - '2015-02-05 02:21:10.697156'
+    - '2015-04-08 20:38:48.285767'
+    - ''
+    - ''
+    - ''
+  - - '7'
+    - Dufferin and College
+    - Dufferin and College Toronto
+    - "-79.4325342"
+    - '43.6525511'
+    - '2015-02-05 03:28:47.750956'
+    - '2015-04-08 20:00:36.720106'
+    - ''
+    - ''
+    - ''
+  - - '8'
+    - Parkdale
+    - Parkdale Toronto
+    - "-79.442534"
+    - '43.643832'
+    - '2015-02-05 10:41:57.23056'
+    - '2015-02-05 10:41:57.23056'
+    -
+    -
+    -
+  - - '9'
+    - Junction
+    - The Junction Toronto
+    - "-79.468614"
+    - '43.666612'
+    - '2015-02-05 10:46:53.644943'
+    - '2015-04-08 20:22:46.321883'
+    - ''
+    - ''
+    - ''
+  - - '10'
+    - Annex
+    - The Annex Toronto
+    - "-79.407585"
+    - '43.6698329'
+    - '2015-02-05 10:47:04.688983'
+    - '2015-04-08 20:30:55.034229'
+    - ''
+    - ''
+    - ''
+  - - '11'
+    - Christie Pits
+    - Christie Pits Toronto ON
+    - "-79.4239707"
+    - '43.6661151'
+    - '2015-02-05 14:48:10.231472'
+    - '2015-03-17 19:10:24.427631'
+    - ''
+    - ''
+    - ''
+  - - '12'
+    - Beach
+    - The Beaches Toronto ON
+    - "-79.296693"
+    - '43.6673479'
+    - '2015-02-05 15:15:06.287077'
+    - '2015-04-08 19:58:33.398513'
+    - ''
+    - ''
+    - ''
+  - - '13'
+    - Chinatown
+    - Chinatown Toronto ON
+    - "-79.397226"
+    - '43.650883'
+    - '2015-02-05 15:15:24.716529'
+    - '2015-03-17 19:09:17.355588'
+    - ''
+    - ''
+    - ''
+  - - '17'
+    - East York
+    - East York Toronto ON
+    - "-79.3416638"
+    - '43.6912006'
+    - '2015-02-05 15:25:33.094571'
+    - '2015-04-08 20:01:15.743377'
+    - ''
+    - ''
+    - ''
+  - - '18'
+    - Forest Hill
+    - Forest Hill Toronto ON
+    - "-79.416667"
+    - '43.7'
+    - '2015-02-05 15:25:51.083554'
+    - '2015-02-05 15:25:51.083554'
+    -
+    -
+    -
+  - - '19'
+    - Harbord Village
+    - Harbord and Major Toronto ON
+    - "-79.404809"
+    - '43.662506'
+    - '2015-02-05 17:13:28.307049'
+    - '2015-02-05 17:58:46.456175'
+    -
+    -
+    -
+  - - '20'
+    - Kensington Market
+    - Kensington Market Toronto ON
+    - "-79.4014566"
+    - '43.6545236'
+    - '2015-02-05 17:13:40.902329'
+    - '2015-03-17 19:29:23.214048'
+    - ''
+    - ''
+    - ''
+  - - '21'
+    - Little Italy
+    - Little Italy Toronto ON
+    - "-79.413"
+    - '43.655'
+    - '2015-02-05 17:14:59.683076'
+    - '2015-04-08 20:33:15.51495'
+    - ''
+    - ''
+    - ''
+  - - '23'
+    - Queen St. West
+    - Queen St. West Toronto
+    - "-79.3898457"
+    - '43.6501754'
+    - '2015-02-05 17:15:33.592589'
+    - '2015-02-05 17:15:33.592589'
+    -
+    -
+    -
+  - - '24'
+    - Regent Park
+    - Regent Park Toronto ON
+    - "-79.365"
+    - '43.661667'
+    - '2015-02-05 17:15:48.864481'
+    - '2015-03-17 19:34:53.92253'
+    - ''
+    - ''
+    - ''
+  - - '25'
+    - Riverdale
+    - Riverdale Toronto ON
+    - "-79.353185"
+    - '43.669714'
+    - '2015-02-05 17:16:03.695275'
+    - '2015-02-05 17:16:03.695275'
+    -
+    -
+    -
+  - - '26'
+    - Rosedale
+    - Rosedale Toronto ON
+    - "-79.377172"
+    - '43.683375'
+    - '2015-02-05 17:16:13.984315'
+    - '2015-02-05 17:16:13.984315'
+    -
+    -
+    -
+  - - '27'
+    - Scarborough
+    - Scarborough Toronto ON
+    - "-79.2317521"
+    - '43.7764258'
+    - '2015-02-05 17:17:26.374333'
+    - '2015-02-05 17:17:26.374333'
+    -
+    -
+    -
+  - - '28'
+    - Seaton Village
+    - Christie and Dupont Toronto ON
+    - "-79.4215241"
+    - '43.671611'
+    - '2015-02-05 17:17:39.484908'
+    - '2015-04-07 15:52:35.513409'
+    - ''
+    - Shelbie Vermette-Grant
+    - ''
+  - - '30'
+    - Toronto Islands
+    - Toronto Island centreville Toronto ON
+    - "-79.3731534"
+    - '43.6203328'
+    - '2015-02-05 17:18:15.099896'
+    - '2015-04-07 17:50:35.121736'
+    - ''
+    - ''
+    - ''
+  - - '33'
+    - Yorkville
+    - Yorkville Toronto ON
+    - "-79.39304"
+    - '43.670749'
+    - '2015-02-05 17:28:23.887589'
+    - '2015-04-08 20:29:23.393839'
+    - ''
+    - ''
+    - ''
+  - - '34'
+    - Alexandra Park
+    - Alexandra Park Toronto ON
+    - "-79.4"
+    - '43.65'
+    - '2015-02-05 17:29:07.987992'
+    - '2015-04-08 19:58:04.54475'
+    - ''
+    - ''
+    - ''
+  - - '35'
+    - Art Gallery of Ontario
+    - Art Gallery of Ontario
+    - "-79.3925123"
+    - '43.6536066'
+    - '2015-02-05 17:29:15.899048'
+    - '2015-03-17 19:04:08.333562'
+    - ''
+    - ''
+    - ''
+  - - '36'
+    - Baldwin Village
+    - Baldwin Village Toronto
+    - "-79.3934"
+    - '43.656'
+    - '2015-02-05 17:29:26.629564'
+    - '2015-04-07 17:44:21.780472'
+    - ''
+    - ''
+    - ''
+  - - '37'
+    - Centre for Addiction and Mental Health (CAMH)
+    - CAMH Toronto
+    - "-79.420626"
+    - '43.6415656'
+    - '2015-02-05 17:29:36.553468'
+    - '2015-04-07 17:42:35.821791'
+    - ''
+    - ''
+    - ''
+  - - '39'
+    - Don Valley
+    - Don Valley Toronto
+    - "-79.3313888"
+    - '43.7071322'
+    - '2015-02-05 17:30:02.748077'
+    - '2015-04-09 13:33:08.652024'
+    - ''
+    - ''
+    - ''
+  - - '40'
+    - Edwards Gardens
+    - Edwards Gardens Toronto
+    - "-79.3604481"
+    - '43.7331517'
+    - '2015-02-05 17:30:09.866617'
+    - '2015-02-21 20:15:56.142002'
+    -
+    -
+    -
+  - - '41'
+    - Finch Station
+    - Finch Station Toronto
+    - "-79.414636"
+    - '43.780467'
+    - '2015-02-05 17:30:18.3505'
+    - '2015-04-08 20:44:03.173848'
+    - ''
+    - ''
+    - ''
+  - - '42'
+    - Hanlan's Point
+    - Hanlan's Point Toronto
+    - "-79.3889558"
+    - '43.6278749'
+    - '2015-02-05 17:30:43.540911'
+    - '2015-02-22 11:50:28.918484'
+    -
+    -
+    -
+  - - '43'
+    - Harbourfront
+    - Harbourfront Toronto
+    - "-79.3818785"
+    - '43.638834'
+    - '2015-02-05 17:31:03.65142'
+    - '2015-02-05 17:31:03.65142'
+    -
+    -
+    -
+  - - '44'
+    - Hoggs Hollow
+    - Hoggs Hollow Toronto
+    - "-79.4"
+    - '43.739'
+    - '2015-02-05 17:31:18.744963'
+    - '2015-02-05 17:31:29.634468'
+    -
+    -
+    -
+  - - '45'
+    - Horseshoe Tavern
+    - 370 Queen Street West Toronto
+    - "-79.395913"
+    - '43.6490438'
+    - '2015-02-05 17:31:47.575653'
+    - '2015-04-08 20:06:23.824789'
+    - ''
+    - ''
+    - ''
+  - - '47'
+    - Leslie Street Spit
+    - 1 Leslie Street Toronto ON
+    - "-79.3229242"
+    - '43.6523367'
+    - '2015-02-05 17:32:35.428356'
+    - '2015-02-05 17:33:11.519128'
+    -
+    -
+    -
+  - - '48'
+    - Mimico Creek
+    - Mimico Creek Toronto
+    - "-79.5392078"
+    - '43.6562078'
+    - '2015-02-05 17:33:21.43899'
+    - '2015-04-07 20:57:07.651639'
+    - ''
+    - ''
+    - ''
+  - - '49'
+    - North York Centre
+    - North York Civic Centre Toronto ON
+    - "-79.414641"
+    - '43.767315'
+    - '2015-02-05 17:33:52.129902'
+    - '2015-04-08 20:34:24.235114'
+    - ''
+    - ''
+    - ''
+  - - '50'
+    - Ontario Place
+    - Ontario Place Toronto
+    - "-79.4102603"
+    - '43.6302211'
+    - '2015-02-05 17:34:23.628211'
+    - '2015-04-07 17:45:42.887415'
+    - ''
+    - ''
+    - ''
+  - - '51'
+    - Ontario Science  Centre
+    - Ontario Science  Centre
+    - "-79.3394606"
+    - '43.7163107'
+    - '2015-02-05 17:34:34.386017'
+    - '2015-04-07 17:46:57.687546'
+    - ''
+    - ''
+    - ''
+  - - '52'
+    - Pearson International Airport
+    - Pearson International Airport
+    - "-79.6248197"
+    - '43.6777176'
+    - '2015-02-05 17:34:39.642885'
+    - '2015-02-05 17:34:39.642885'
+    -
+    -
+    -
+  - - '53'
+    - Queen's Park
+    - Queen's Park 47 Queens Park Crescent E Toronto, ON M5S 2C3
+    - "-79.3922181"
+    - '43.6643309'
+    - '2015-02-05 17:34:55.819963'
+    - '2015-04-10 14:36:34.981912'
+    - ''
+    - ''
+    - ''
+  - - '54'
+    - Royal Ontario Museum
+    - Royal Ontario Museum
+    - "-79.3947771"
+    - '43.6677097'
+    - '2015-02-05 17:35:08.267339'
+    - '2015-04-08 13:22:48.153926'
+    - ''
+    - ''
+    - ''
+  - - '56'
+    - Skydome
+    - Skydome Toronto
+    - "-79.3893532"
+    - '43.6414378'
+    - '2015-02-05 17:35:21.998267'
+    - '2015-04-07 21:36:33.370714'
+    - ''
+    - ''
+    - ''
+  - - '57'
+    - St. George Station
+    - St. George Station Toronto
+    - "-79.398053"
+    - '43.668655'
+    - '2015-02-05 17:35:28.868749'
+    - '2015-04-08 20:36:22.794633'
+    - ''
+    - ''
+    - ''
+  - - '58'
+    - The Zanzibar
+    - 359 Yonge Street
+    - "-79.3815172"
+    - '43.658134'
+    - '2015-02-05 17:35:35.728014'
+    - '2015-04-07 17:51:40.150569'
+    - ''
+    - ''
+    - ''
+  - - '60'
+    - Union Station
+    - Union Station Toronto
+    - "-79.3806998"
+    - '43.6452904'
+    - '2015-02-05 17:36:26.635049'
+    - '2015-04-08 20:38:24.851683'
+    - ''
+    - ''
+    - ''
+  - - '61'
+    - University of Guelph/ Humber
+    - University of Guelph/ Humber
+    - "-79.605617"
+    - '43.728061'
+    - '2015-02-05 17:36:33.271422'
+    - '2015-02-05 17:36:33.271422'
+    -
+    -
+    -
+  - - '62'
+    - University of Toronto
+    - University of Toronto
+    - "-79.3956564"
+    - '43.6628917'
+    - '2015-02-05 17:36:40.464047'
+    - '2015-03-17 19:40:19.596405'
+    - ''
+    - ''
+    - ''
+  - - '63'
+    - Gardiner Overpass
+    - Gardiner Overpass toronto
+    - "-79.4120269"
+    - '43.6373254'
+    - '2015-02-05 18:00:06.985064'
+    - '2015-02-05 18:00:06.985064'
+    -
+    -
+    -
+  - - '64'
+    - Bayview Extension
+    - bayview and moore toronto
+    - "-79.3716556"
+    - '43.6967347'
+    - '2015-02-05 18:00:26.937396'
+    - '2015-02-24 18:13:38.252114'
+    - ''
+    - ''
+    - ''
+  - - '65'
+    - Eastern Avenue
+    - Eastern Avenue Toronto
+    - "-79.3365993"
+    - '43.6588998'
+    - '2015-02-05 18:01:08.261748'
+    - '2015-04-08 20:44:37.558439'
+    - ''
+    - ''
+    - ''
+  - - '66'
+    - Spadina Crescent
+    - Spadina Crescent Toronto
+    - "-79.4004102"
+    - '43.660251'
+    - '2015-02-05 18:02:20.270094'
+    - '2015-04-08 20:35:51.435528'
+    - ''
+    - ''
+    - ''
+  - - '69'
+    - Generic Toronto
+    - Toronto ON
+    - "-79.3831843"
+    - '43.653226'
+    - '2015-02-05 19:56:49.920723'
+    - '2015-02-05 19:56:49.920723'
+    -
+    -
+    -
+  - - '70'
+    - Waterfront
+    - Waterfront Toronto ON
+    - "-79.3646978"
+    - '43.6451995'
+    - '2015-02-12 11:19:57.341743'
+    - '2015-04-08 13:35:01.279644'
+    - ''
+    - ''
+    - ''
+  - - '71'
+    - Yonge and Sheppard
+    - Yonge & Sheppard Toronto
+    - "-79.4108318"
+    - '43.7615302'
+    - '2015-02-12 11:42:49.188703'
+    - '2015-04-08 20:38:41.405017'
+    - ''
+    - ''
+    - ''
+  - - '72'
+    - Chinatown East
+    - Broadview and gerrard Toronto ON
+    - "-79.3526066"
+    - '43.6654789'
+    - '2015-02-12 11:52:46.631251'
+    - '2015-04-08 19:59:03.507071'
+    - ''
+    - ''
+    - ''
+  - - '73'
+    - Bohemian Embassy
+    - 7 St Nicholas St, Toronto, Ontario
+    - "-79.3855559"
+    - '43.6651289'
+    - '2015-02-12 11:55:19.71013'
+    - '2015-02-12 11:55:19.71013'
+    -
+    -
+    -
+  - - '78'
+    - Humber and Winnett Ave.
+    - Humber & Winnett Ave. Toronto
+    - "-79.4357087"
+    - '43.6948476'
+    - '2015-02-12 20:53:09.106599'
+    - '2015-03-17 17:42:23.757438'
+    - ''
+    - ''
+    - ''
+  - - '79'
+    - Bathurst and St. Clair
+    - Bathurst & St. Clair Toronto ON
+    - "-79.4183193"
+    - '43.6832156'
+    - '2015-02-12 20:53:42.298088'
+    - '2015-04-07 21:33:02.10355'
+    - ''
+    - Shelbie Vermette-Grant
+    - ''
+  - - '81'
+    - Oakwood and Eglinton
+    - Oakwood & Eglinton TOronto ON
+    - "-79.4427913"
+    - '43.6973029'
+    - '2015-02-12 20:56:45.718287'
+    - '2015-03-17 17:41:56.306158'
+    - ''
+    - ''
+    - ''
+  - - '86'
+    - Dufferin Grove Park
+    - Dufferin Grove Park Toronto ON
+    - "-79.4327637"
+    - '43.6565553'
+    - '2015-02-12 21:06:31.565279'
+    - '2015-03-17 19:12:53.997001'
+    - ''
+    - ''
+    - ''
+  - - '88'
+    - Bay Street
+    - Bay Street Toronto ON
+    - "-79.3838527"
+    - '43.6560342'
+    - '2015-02-12 21:09:07.821141'
+    - '2015-03-17 19:08:07.520079'
+    - ''
+    - ''
+    - ''
+  - - '89'
+    - Jane and Finch
+    - Jane and Finch Toronto ON
+    - "-79.517778"
+    - '43.757222'
+    - '2015-02-12 21:09:21.533835'
+    - '2015-02-12 21:09:21.533835'
+    -
+    -
+    -
+  - - '92'
+    - Bathurst and Bloor
+    - Bathurst and Bloor Toronto ON
+    - "-79.411208"
+    - '43.665132'
+    - '2015-02-12 22:13:37.798798'
+    - '2015-03-17 19:05:42.504434'
+    - ''
+    - ''
+    - ''
+  - - '93'
+    - St. Clair and Dufferin
+    - St. Clair and Dufferin Toronto ON
+    - "-79.4430493"
+    - '43.6778763'
+    - '2015-02-13 12:16:01.942607'
+    - '2015-04-08 20:36:15.529403'
+    - ''
+    - ''
+    - ''
+  - - '94'
+    - St. Clair and Lansdowne
+    - St. Clair and Lansdowne Toronto ON
+    - "-79.4505407"
+    - '43.6762119'
+    - '2015-02-13 12:16:15.194365'
+    - '2015-02-13 12:16:15.194365'
+    -
+    -
+    -
+  - - '98'
+    - Grace St. and Mansfield
+    - Grace St. and Mansfield Toronto ON
+    - "-79.4148766"
+    - '43.653216'
+    - '2015-02-13 12:20:46.948866'
+    - '2015-04-08 20:01:46.108567'
+    - ''
+    - ''
+    - ''
+  - - '99'
+    - Woodbine and Danforth
+    - Woodbine and Danforth Toronto ON
+    - "-79.3127457"
+    - '43.6856699'
+    - '2015-02-13 12:21:39.892154'
+    - '2015-04-08 20:38:53.759893'
+    - ''
+    - ''
+    - ''
+  - - '101'
+    - Dundas East and Sackville St.
+    - Dundas East and Sackville St. Toronto ON
+    - "-79.3629975"
+    - '43.660086'
+    - '2015-02-13 12:24:35.992452'
+    - '2015-04-08 20:01:00.627'
+    - ''
+    - ''
+    - ''
+  - - '106'
+    - Yonge and King
+    - Yonge and King Toronto ON
+    - "-79.377904"
+    - '43.649157'
+    - '2015-02-13 12:37:26.984177'
+    - '2015-04-08 20:38:34.67958'
+    - ''
+    - ''
+    - ''
+  - - '107'
+    - Queen and Church
+    - Queen and Church Toronto ON
+    - "-79.3757433"
+    - '43.6531682'
+    - '2015-02-13 12:38:01.954647'
+    - '2015-04-08 20:35:00.049344'
+    - ''
+    - ''
+    - ''
+  - - '108'
+    - Oakwood and St. Clair
+    - St Clair Ave W & Oakwood Ave
+    - "-79.4356795"
+    - '43.6795155'
+    - '2015-03-13 16:12:19.665139'
+    - '2015-04-08 20:34:44.704918'
+    - ''
+    - ''
+    - ''
+  - - '109'
+    - Bay and King
+    - King St W & Bay St Toronto
+    - "-79.3802591"
+    - '43.6486531'
+    - '2015-03-13 16:15:26.448172'
+    - '2015-04-08 19:58:23.506726'
+    - ''
+    - ''
+    - ''
+  - - '110'
+    - Exhibition Place
+    - 200 Princes' Boulevard
+    - "-79.4215454"
+    - '43.6322603'
+    - '2015-03-16 20:51:54.218745'
+    - '2015-04-07 15:57:00.666821'
+    - ''
+    - Shelbie Vermette-Grant
+    - ''
+  - - '111'
+    - Pape Station
+    - Pape Station
+    - "-159.158584"
+    - '55.908062'
+    - '2015-03-16 20:58:45.138977'
+    - '2015-03-16 20:58:45.138977'
+    - ''
+    - ''
+    - ''
+  - - '113'
+    - Hav-a-Nap Motel
+    - 2733 Kingston Rd Toronto
+    - "-79.2138875"
+    - '43.7418418'
+    - '2015-03-17 18:26:46.828096'
+    - '2015-04-08 20:06:15.043178'
+    - ''
+    - ''
+    - ''
+  - - '114'
+    - Islington Station
+    - Islington Station Toronto
+    - "-79.524767"
+    - '43.64468'
+    - '2015-03-17 18:42:37.350364'
+    - '2015-03-17 18:42:37.350364'
+    - ''
+    - ''
+    - ''
+  - - '115'
+    - Bloor and Yonge
+    - Bloor street and Yonge street Toronto
+    - "-79.3867594"
+    - '43.6702259'
+    - '2015-03-20 17:40:42.448239'
+    - '2015-04-08 19:58:41.381365'
+    - ''
+    - ''
+    - ''
+  - - '118'
+    - Pape and Danforth
+    - Danforth Ave & Pape Ave Toronto, ON M4K
+    - "-79.3448606"
+    - '43.6789024'
+    - '2015-03-24 20:37:37.932938'
+    - '2015-04-07 21:08:16.582073'
+    - ''
+    - ''
+    - ''
+  - - '119'
+    - Bloor and Huron
+    - Bloor St W & Huron St Toronto, ON M5S
+    - "-79.4015046"
+    - '43.6671519'
+    - '2015-03-24 20:42:20.429033'
+    - '2015-03-24 20:42:20.429033'
+    - ''
+    - ''
+    - ''
+  - - '120'
+    - The Savarin Tavern
+    - 336 Bay St, Toronto, ON M5H
+    - "-79.3809161"
+    - '43.6501826'
+    - '2015-03-24 20:45:34.554339'
+    - '2015-03-24 20:45:34.554339'
+    - ''
+    - ''
+    - ''
+  - - '121'
+    - Mars Diner
+    - 432 College St Toronto
+    - "-79.4071905"
+    - '43.6565811'
+    - '2015-03-27 19:32:04.241276'
+    - '2015-03-27 19:32:04.241276'
+    - ''
+    - ''
+    - ''
+  - - '122'
+    - Aldergrove Avenue
+    - Aldergrove Ave Toronto, ON M4C
+    - "-79.3128736"
+    - '43.6821798'
+    - '2015-03-27 19:36:08.91365'
+    - '2015-03-27 19:36:08.91365'
+    - ''
+    - ''
+    - ''
+  - - '123'
+    - Spadina Theatre
+    - 24 Spadina Rd Toronto, ON M5R 2S7
+    - "-79.4047178"
+    - '43.668813'
+    - '2015-03-27 19:47:48.110253'
+    - '2015-03-27 19:47:48.110253'
+    - ''
+    - ''
+    - ''
+  - - '124'
+    - Bloor Viaduct
+    - Prince Edward Viaduct Toronto, ON
+    - "-79.3638605"
+    - '43.6752097'
+    - '2015-03-27 21:10:42.166401'
+    - '2015-04-09 13:33:11.53176'
+    - ''
+    - ''
+    - ''
+  - - '125'
+    - Sea Kings Fish Market
+    - Sea Kings 189 Baldwin St Toronto, ON M5T 1M1
+    - "-79.401277"
+    - '43.6547019'
+    - '2015-03-27 21:28:24.036666'
+    - '2015-03-27 21:28:24.036666'
+    - ''
+    - ''
+    - ''
+  - - '126'
+    - Canoe Landing Park
+    - Canoe Landing 95 Fort York Blvd Toronto, ON M5V 3Y2
+    - "-79.3967396"
+    - '43.6390626'
+    - '2015-03-30 18:38:34.262956'
+    - '2015-03-30 18:39:00.539582'
+    - ''
+    - ''
+    - ''
+  - - '127'
+    - CityPlace
+    - CityPlace Toronto, ON M5V
+    - "-79.391944"
+    - '43.639722'
+    - '2015-03-30 18:41:53.632088'
+    - '2015-03-30 18:41:53.632088'
+    - ''
+    - ''
+    - ''
+  - - '128'
+    - The Selby Hotel
+    - 592 Sherbourne St Toronto
+    - "-79.3765225"
+    - '43.6714644'
+    - '2015-03-30 19:55:56.230805'
+    - '2015-03-30 19:58:37.335232'
+    - ''
+    - ''
+    - ''
+  - - '129'
+    - Beaver Avenue
+    - Beaver Ave Toronto, ON M6H
+    - "-79.4433888"
+    - '43.6715037'
+    - '2015-03-30 20:00:36.991727'
+    - '2015-03-30 20:00:36.991727'
+    - ''
+    - ''
+    - ''
+  - - '130'
+    - Little Portugal
+    - Little Portugal Toronto
+    - "-79.435556"
+    - '43.65'
+    - '2015-03-31 20:33:03.005336'
+    - '2015-03-31 20:33:03.005336'
+    - ''
+    - ''
+    - ''
+  - - '131'
+    - Sunnyside Pavilion
+    - Sunnyside Pavilion Cafe 1755 Lake Shore Blvd W Toronto, ON M6S 5A3
+    - "-79.4562135"
+    - '43.6378737'
+    - '2015-03-31 20:42:18.473381'
+    - '2015-04-08 14:18:39.794021'
+    - ''
+    - ''
+    - ''
+  - - '132'
+    - Sorauren Park
+    - Sorauren Park toronto
+    - "-79.4434901"
+    - '43.648804'
+    - '2015-03-31 20:51:30.469878'
+    - '2015-03-31 20:51:30.469878'
+    - ''
+    - ''
+    - ''
+  - - '133'
+    - Park Hyatt Hotel
+    - Park Hyatt 4 Avenue Rd. Toronto, ON M5R 2E8
+    - "-79.3948692"
+    - '43.6692448'
+    - '2015-04-02 16:01:42.238925'
+    - '2015-04-02 16:01:42.238925'
+    - ''
+    - ''
+    - ''
+  - - '134'
+    - Avenue Road
+    - Avenue Rd, Toronto, ON
+    - "-79.4105725"
+    - '43.709015'
+    - '2015-04-02 16:06:44.081607'
+    - '2015-04-02 16:06:44.081607'
+    - ''
+    - ''
+    - ''
+  - - '135'
+    - CN Tower
+    - CN Tower 301 Front St W Toronto, ON M5V 2T6
+    - "-79.3870568"
+    - '43.6425662'
+    - '2015-04-07 13:55:24.732269'
+    - '2015-04-08 13:34:05.382114'
+    - ''
+    - ''
+    - ''
+  - - '136'
+    - Roselawn Cemetery
+    - Roselawn Cemetery Toronto, ON
+    - "-79.4202773"
+    - '43.7062295'
+    - '2015-04-07 13:56:05.602962'
+    - '2015-04-07 13:56:05.602962'
+    - ''
+    - ''
+    - ''
+  - - '137'
+    - Riverdale Farm
+    - Riverdale Farm 201 Winchester St Toronto, ON M4X 1B8
+    - "-79.3589687"
+    - '43.6656986'
+    - '2015-04-07 13:57:13.585237'
+    - '2015-04-08 13:24:22.198561'
+    - ''
+    - ''
+    - ''
+  - - '138'
+    - Riverdale Park
+    - Riverdale Park East 550 Broadview Ave Toronto, ON M4K 2P1
+    - "-79.3557081"
+    - '43.669809'
+    - '2015-04-07 14:38:35.57237'
+    - '2015-04-07 17:48:50.01912'
+    - ''
+    - ''
+    - ''
+  - - '139'
+    - Jean Sibelius Square
+    - Jean Sibelius Square 50 Kendal Ave Toronto, ON
+    - "-79.4086687"
+    - '43.6713584'
+    - '2015-04-07 14:52:10.813095'
+    - '2015-04-07 14:52:10.813095'
+    - ''
+    - ''
+    - ''
+  - - '140'
+    - 52 Kingston Road
+    - 52 Kingston Rd Toronto, ON M4L 1S4
+    - "-79.3118902"
+    - '43.6686101'
+    - '2015-04-07 14:54:04.197756'
+    - '2015-04-07 14:54:04.197756'
+    - ''
+    - ''
+    - ''
+  - - '141'
+    - 1034 Eglinton Avenue West
+    - 1034 Eglinton Ave W Toronto, ON M6C 2C6
+    - "-79.4301981"
+    - '43.7001716'
+    - '2015-04-07 14:57:43.714445'
+    - '2015-04-07 14:57:43.714445'
+    - ''
+    - ''
+    - ''
+  - - '142'
+    - Lonsdale Road
+    - Lonsdale Rd Toronto, ON
+    - "-79.407916"
+    - '43.689752'
+    - '2015-04-07 15:03:49.829344'
+    - '2015-04-07 15:03:49.829344'
+    - ''
+    - ''
+    - ''
+  - - '143'
+    - St. Clair Station
+    - St Clair Station, Toronto, ON
+    - "-79.392203"
+    - '43.687796'
+    - '2015-04-07 16:55:40.923635'
+    - '2015-04-08 20:35:59.394044'
+    - ''
+    - ''
+    - ''
+  - - '144'
+    - Palais Royale
+    - Palais Royale 1601 Lake Shore Blvd W Toronto, ON M6K 3C1
+    - "-79.4471754"
+    - '43.6367005'
+    - '2015-04-07 17:10:29.458731'
+    - '2015-04-07 17:10:29.458731'
+    - ''
+    - ''
+    - ''
+  - - '145'
+    - Western Technical-Commercial School
+    - Western Technical-Commercial School 125 Evelyn Crescent Toronto, ON M6P 3E3
+    - "-79.4744334"
+    - '43.6578297'
+    - '2015-04-07 17:12:42.610761'
+    - '2015-04-07 17:12:42.610761'
+    - ''
+    - ''
+    - ''
+  - - '146'
+    - Lillian H. Smith Library
+    - Lillian H. Smith Library 239 College St Toronto, ON M5T 1R5
+    - "-79.3984052"
+    - '43.6580709'
+    - '2015-04-07 17:22:04.249289'
+    - '2015-04-07 17:22:04.249289'
+    - ''
+    - ''
+    - ''
+  - - '147'
+    - Sherbourne Station
+    - Sherbourne Station 420 Bloor St E Toronto, ON M4W 1H4
+    - "-79.377156"
+    - '43.6724313'
+    - '2015-04-07 17:24:11.930459'
+    - '2015-04-07 21:33:37.759558'
+    - ''
+    - Shelbie Vermette-Grant
+    - ''
+  - - '148'
+    - Broadview and Danforth
+    - Danforth Ave & Broadview Ave Toronto, ON M4K
+    - "-79.3588317"
+    - '43.6761955'
+    - '2015-04-07 17:27:36.82258'
+    - '2015-04-07 17:27:36.82258'
+    - ''
+    - ''
+    - ''
+  - - '149'
+    - Bathurst and Davenport
+    - Bathurst St & Davenport Rd Toronto, ON M5R
+    - "-79.4157649"
+    - '43.676695'
+    - '2015-04-07 18:14:11.646662'
+    - '2015-04-07 18:14:11.646662'
+    - ''
+    - ''
+    - ''
+  - - '150'
+    - City Hall
+    - Toronto City Hall 100 Queen St W Toronto, ON M5H 2N2
+    - "-79.3840901"
+    - '43.6534399'
+    - '2015-04-07 18:17:11.448428'
+    - '2015-04-07 18:17:11.448428'
+    - ''
+    - ''
+    - ''
+  - - '151'
+    - Withrow Avenue
+    - Withrow Ave Toronto, ON
+    - "-79.3468147"
+    - '43.6711162'
+    - '2015-04-07 21:07:35.909716'
+    - '2015-04-07 21:07:35.909716'
+    - ''
+    - ''
+    - ''
+  - - '152'
+    - Grace Street
+    - Grace St Toronto, ON
+    - "-79.4169132"
+    - '43.6581139'
+    - '2015-04-08 13:48:16.305173'
+    - '2015-04-08 20:05:58.002326'
+    - ''
+    - ''
+    - ''
+  - - '153'
+    - Guildwood Station
+    - Guildwood GO Station Rail Canada
+    - "-79.1996"
+    - '43.755413'
+    - '2015-04-08 19:56:10.582252'
+    - '2015-04-08 19:56:10.582252'
+    - ''
+    - ''
+    - ''
+  - - '154'
+    - Trinity Bellwoods Park
+    - Trinity Bellwoods Park 790 Queen St W Toronto, ON M6J 1G3
+    - "-79.4140827"
+    - '43.6481002'
+    - '2015-04-08 20:07:35.732494'
+    - '2015-04-08 20:07:35.732494'
+    - ''
+    - ''
+    - ''
+  - - '155'
+    - Scarborough Bluffs
+    - Scarborough Bluffs Park Cliffside Toronto, ON M1N 3Z5
+    - "-79.2419431"
+    - '43.7038158'
+    - '2015-04-08 20:10:32.074042'
+    - '2015-04-08 20:10:32.074042'
+    - ''
+    - ''
+    - ''
+  - - '156'
+    - Princess Margaret Hospital
+    - Princess Margaret Cancer Centre 610 University Ave. Toronto, ON M5G 2M9
+    - "-79.3905974"
+    - '43.6580743'
+    - '2015-04-08 20:12:55.254247'
+    - '2015-04-08 20:12:55.254247'
+    - ''
+    - ''
+    - ''
+  - - '157'
+    - Friar's Tavern
+    - 283 Yonge St Toronto, ON M5B 1N8
+    - "-79.380592"
+    - '43.6556261'
+    - '2015-04-09 17:39:20.804985'
+    - '2015-04-09 17:39:20.804985'
+    - ''
+    - ''
+    - ''
+  - - '158'
+    - Osgoode Hall
+    - Osgoode Hall 130 Queen Street West Toronto, ON M5H 2N5
+    - "-79.384732"
+    - '43.6520207'
+    - '2015-04-09 17:52:48.294071'
+    - '2015-04-09 17:52:48.294071'
+    - ''
+    - ''
+    - ''
+  - - '159'
+    - Dundas Station
+    - Dundas Station - Southbound Platform Canada
+    - "-79.381225"
+    - '43.656517'
+    - '2015-04-09 17:54:55.687912'
+    - '2015-04-09 17:54:55.687912'
+    - ''
+    - ''
+    - ''
+  - - '160'
+    - 86 Lombard Street (Former City Morgue)
+    - 86 Lombard Street Toronto
+    - "-79.3740349"
+    - '43.6520669'
+    - '2015-04-09 19:20:14.302523'
+    - '2015-04-09 19:20:14.302523'
+    - ''
+    - ''
+    - ''
+  - - '161'
+    - Museum Station
+    - Museum Station - Northbound Platform Canada
+    - "-79.393467"
+    - '43.666621'
+    - '2015-04-09 19:32:09.946221'
+    - '2015-04-09 19:32:09.946221'
+    - ''
+    - ''
+    - ''
+  - - '162'
+    - bpnichol Lane
+    - bpNichol Ln Toronto, ON M5S
+    - "-79.4003417"
+    - '43.6665414'
+    - '2015-04-10 14:30:52.297675'
+    - '2015-04-10 14:30:52.297675'
+    - ''
+    - ''
+    - ''
+  - - '163'
+    - Mill Street Brew Pub
+    - Mill St. Brew Pub 21 Tank House Lane Toronto, ON M5A 3C4
+    - "-79.3584497"
+    - '43.650428'
+    - '2015-04-14 14:31:40.433951'
+    - '2015-04-14 14:31:40.433951'
+    - ''
+    - ''
+    - ''
+  - - '164'
+    - Cabbagetown
+    - Cabbagetown Toronto, ON
+    - "-79.369169"
+    - '43.667263'
+    - '2015-04-14 16:42:57.574007'
+    - '2015-04-14 16:42:57.574007'
+    - ''
+    - ''
+    - ''
+  - - '165'
+    - Bay of Spirits Gallery
+    - Bay of Spirits Gallery 156 Front St W Toronto, ON M5J 2L6
+    - "-79.3841482"
+    - '43.6449957'
+    - '2015-04-16 13:37:49.370377'
+    - '2015-04-16 13:37:49.370377'
+    - ''
+    - ''
+    - ''
+
+---
+locations_poems:
+  columns:
+  - poem_id
+  - location_id
+  records:
+  - - '1'
+    - '4'
+  - - '2'
+    - '3'
+  - - '3'
+    - '3'
+  - - '4'
+    - '3'
+  - - '6'
+    - '69'
+  - - '7'
+    - '69'
+  - - '8'
+    - '69'
+  - - '9'
+    - '69'
+  - - '10'
+    - '7'
+  - - '10'
+    - '3'
+  - - '11'
+    - '3'
+  - - '11'
+    - '8'
+  - - '12'
+    - '3'
+  - - '13'
+    - '9'
+  - - '14'
+    - '10'
+  - - '15'
+    - '9'
+  - - '16'
+    - '57'
+  - - '17'
+    - '20'
+  - - '17'
+    - '124'
+  - - '18'
+    - '18'
+  - - '19'
+    - '20'
+  - - '20'
+    - '65'
+  - - '20'
+    - '63'
+  - - '20'
+    - '124'
+  - - '20'
+    - '64'
+  - - '21'
+    - '66'
+  - - '21'
+    - '33'
+  - - '22'
+    - '20'
+  - - '23'
+    - '28'
+  - - '24'
+    - '99'
+  - - '24'
+    - '53'
+  - - '24'
+    - '4'
+  - - '25'
+    - '30'
+  - - '26'
+    - '124'
+  - - '27'
+    - '62'
+  - - '27'
+    - '33'
+  - - '28'
+    - '48'
+  - - '29'
+    - '123'
+  - - '29'
+    - '47'
+  - - '29'
+    - '21'
+  - - '31'
+    - '69'
+  - - '32'
+    - '48'
+  - - '33'
+    - '48'
+  - - '34'
+    - '48'
+  - - '35'
+    - '48'
+  - - '36'
+    - '48'
+  - - '37'
+    - '48'
+  - - '39'
+    - '70'
+  - - '41'
+    - '35'
+  - - '43'
+    - '17'
+  - - '44'
+    - '71'
+  - - '44'
+    - '49'
+  - - '44'
+    - '44'
+  - - '44'
+    - '41'
+  - - '44'
+    - '60'
+  - - '45'
+    - '33'
+  - - '46'
+    - '53'
+  - - '47'
+    - '10'
+  - - '49'
+    - '54'
+  - - '50'
+    - '37'
+  - - '51'
+    - '24'
+  - - '52'
+    - '72'
+  - - '53'
+    - '73'
+  - - '53'
+    - '62'
+  - - '55'
+    - '118'
+  - - '56'
+    - '111'
+  - - '57'
+    - '118'
+  - - '58'
+    - '118'
+  - - '60'
+    - '110'
+  - - '61'
+    - '13'
+  - - '62'
+    - '151'
+  - - '63'
+    - '30'
+  - - '64'
+    - '69'
+  - - '65'
+    - '51'
+  - - '66'
+    - '12'
+  - - '67'
+    - '12'
+  - - '68'
+    - '40'
+  - - '69'
+    - '39'
+  - - '70'
+    - '26'
+  - - '73'
+    - '155'
+  - - '74'
+    - '113'
+  - - '74'
+    - '27'
+  - - '80'
+    - '52'
+  - - '84'
+    - '30'
+  - - '84'
+    - '60'
+  - - '85'
+    - '61'
+  - - '87'
+    - '114'
+  - - '88'
+    - '78'
+  - - '89'
+    - '79'
+  - - '90'
+    - '34'
+  - - '91'
+    - '35'
+  - - '91'
+    - '54'
+  - - '92'
+    - '36'
+  - - '93'
+    - '81'
+  - - '93'
+    - '50'
+  - - '93'
+    - '92'
+  - - '96'
+    - '69'
+  - - '98'
+    - '33'
+  - - '102'
+    - '37'
+  - - '104'
+    - '69'
+  - - '106'
+    - '86'
+  - - '112'
+    - '27'
+  - - '112'
+    - '88'
+  - - '112'
+    - '89'
+  - - '115'
+    - '30'
+  - - '119'
+    - '69'
+  - - '120'
+    - '13'
+  - - '123'
+    - '35'
+  - - '125'
+    - '121'
+  - - '127'
+    - '69'
+  - - '128'
+    - '21'
+  - - '131'
+    - '92'
+  - - '132'
+    - '69'
+  - - '133'
+    - '56'
+  - - '134'
+    - '13'
+  - - '134'
+    - '20'
+  - - '135'
+    - '93'
+  - - '135'
+    - '94'
+  - - '136'
+    - '152'
+  - - '137'
+    - '128'
+  - - '137'
+    - '129'
+  - - '138'
+    - '98'
+  - - '139'
+    - '122'
+  - - '140'
+    - '21'
+  - - '141'
+    - '21'
+  - - '142'
+    - '101'
+  - - '143'
+    - '43'
+  - - '144'
+    - '21'
+  - - '145'
+    - '93'
+  - - '148'
+    - '99'
+  - - '151'
+    - '106'
+  - - '152'
+    - '107'
+  - - '153'
+    - '106'
+  - - '154'
+    - '57'
+  - - '155'
+    - '69'
+  - - '157'
+    - '109'
+  - - '158'
+    - '3'
+  - - '159'
+    - '9'
+  - - '160'
+    - '24'
+  - - '161'
+    - '69'
+  - - '162'
+    - '35'
+  - - '163'
+    - '11'
+  - - '164'
+    - '69'
+  - - '165'
+    - '125'
+  - - '165'
+    - '20'
+  - - '166'
+    - '58'
+  - - '166'
+    - '115'
+  - - '167'
+    - '42'
+  - - '168'
+    - '45'
+  - - '169'
+    - '108'
+  - - '170'
+    - '9'
+  - - '171'
+    - '23'
+  - - '172'
+    - '60'
+  - - '173'
+    - '119'
+  - - '174'
+    - '120'
+  - - '175'
+    - '69'
+  - - '177'
+    - '37'
+  - - '178'
+    - '126'
+  - - '179'
+    - '127'
+  - - '180'
+    - '130'
+  - - '182'
+    - '131'
+  - - '183'
+    - '11'
+  - - '184'
+    - '132'
+  - - '185'
+    - '133'
+  - - '186'
+    - '134'
+  - - '187'
+    - '69'
+  - - '188'
+    - '27'
+  - - '189'
+    - '140'
+  - - '189'
+    - '137'
+  - - '189'
+    - '136'
+  - - '189'
+    - '135'
+  - - '189'
+    - '53'
+  - - '189'
+    - '138'
+  - - '189'
+    - '13'
+  - - '189'
+    - '139'
+  - - '189'
+    - '92'
+  - - '189'
+    - '142'
+  - - '189'
+    - '141'
+  - - '190'
+    - '143'
+  - - '191'
+    - '60'
+  - - '192'
+    - '145'
+  - - '192'
+    - '144'
+  - - '193'
+    - '99'
+  - - '194'
+    - '11'
+  - - '195'
+    - '146'
+  - - '196'
+    - '147'
+  - - '197'
+    - '148'
+  - - '198'
+    - '21'
+  - - '199'
+    - '149'
+  - - '200'
+    - '33'
+  - - '201'
+    - '150'
+  - - '202'
+    - '135'
+  - - '203'
+    - '69'
+  - - '204'
+    - '60'
+  - - '205'
+    - '21'
+  - - '206'
+    - '69'
+  - - '207'
+    - '69'
+  - - '208'
+    - '56'
+  - - '209'
+    - '153'
+  - - '210'
+    - '152'
+  - - '210'
+    - '154'
+  - - '211'
+    - '152'
+  - - '212'
+    - '155'
+  - - '212'
+    - '63'
+  - - '213'
+    - '156'
+  - - '214'
+    - '113'
+  - - '215'
+    - '152'
+  - - '216'
+    - '71'
+  - - '217'
+    - '157'
+  - - '218'
+    - '60'
+  - - '219'
+    - '158'
+  - - '220'
+    - '159'
+  - - '221'
+    - '60'
+  - - '222'
+    - '13'
+  - - '223'
+    - '69'
+  - - '224'
+    - '160'
+  - - '225'
+    - '11'
+  - - '226'
+    - '12'
+  - - '226'
+    - '53'
+  - - '226'
+    - '62'
+  - - '227'
+    - '53'
+  - - '228'
+    - '69'
+  - - '229'
+    - '161'
+  - - '230'
+    - '69'
+  - - '232'
+    - '163'
+  - - '232'
+    - '60'
+  - - '233'
+    - '164'
+  - - '234'
+    - '165'
+
+---
+poets:
+  columns:
+  - id
+  - first_name
+  - last_name
+  - created_at
+  - updated_at
+  records:
+  - - '1'
+    - Sheila
+    - Stewart
+    - '2015-02-05 10:34:30.145669'
+    - '2015-02-05 10:34:30.145669'
+  - - '2'
+    - Carleton
+    - Wilson
+    - '2015-02-05 10:45:56.388442'
+    - '2015-02-05 10:45:56.388442'
+  - - '5'
+    - Ken
+    - Babstock
+    - '2015-02-05 17:37:34.89772'
+    - '2015-02-05 17:37:34.89772'
+  - - '6'
+    - Samantha
+    - Bernstein
+    - '2015-02-05 17:37:55.91228'
+    - '2015-02-05 17:37:55.91228'
+  - - '7'
+    - Ronna
+    - Bloom
+    - '2015-02-05 17:38:04.877765'
+    - '2015-02-05 17:38:04.877765'
+  - - '8'
+    - Roo
+    - Borson
+    - '2015-02-05 17:38:12.703882'
+    - '2015-02-05 17:38:12.703882'
+  - - '9'
+    - Suzanne
+    - Bowness
+    - '2015-02-05 17:38:20.955956'
+    - '2015-02-05 17:38:20.955956'
+  - - '10'
+    - Dionne
+    - Brand
+    - '2015-02-05 17:38:29.401542'
+    - '2015-02-05 17:38:29.401542'
+  - - '11'
+    - Heather
+    - Cadsby
+    - '2015-02-05 17:38:38.069313'
+    - '2015-02-05 17:38:38.069313'
+  - - '12'
+    - Ayesha
+    - Chatterjee
+    - '2015-02-05 17:38:57.033593'
+    - '2015-02-05 17:38:57.033593'
+  - - '13'
+    - Lynn
+    - Crosbie
+    - '2015-02-05 17:39:13.908721'
+    - '2015-02-05 17:39:13.908721'
+  - - '14'
+    - Caroline
+    - Di Giovanni
+    - '2015-02-05 17:40:57.0239'
+    - '2015-02-05 17:40:57.0239'
+  - - '15'
+    - Caroline Morgan
+    - Di Giovanni
+    - '2015-02-05 17:41:09.889343'
+    - '2015-02-05 17:41:09.889343'
+  - - '16'
+    - Rocco
+    - 'de Giacomo '
+    - '2015-02-05 17:41:30.130719'
+    - '2015-02-05 17:41:30.130719'
+  - - '17'
+    - Desi
+    - Di Nardo
+    - '2015-02-05 17:41:50.577568'
+    - '2015-02-05 17:41:50.577568'
+  - - '18'
+    - Catherine
+    - Graham
+    - '2015-02-05 17:42:07.954004'
+    - '2015-02-05 17:42:07.954004'
+  - - '19'
+    - Susan
+    - Helwig
+    - '2015-02-05 17:42:15.457729'
+    - '2015-02-05 17:42:15.457729'
+  - - '20'
+    - Maureen
+    - Hynes
+    - '2015-02-05 17:42:23.131318'
+    - '2015-02-05 17:42:23.131318'
+  - - '21'
+    - Susan
+    - Ioannou
+    - '2015-02-05 17:42:30.361579'
+    - '2015-02-05 17:42:30.361579'
+  - - '22'
+    - 'Dennis '
+    - Lee
+    - '2015-02-05 17:43:03.283361'
+    - '2015-02-05 17:43:03.283361'
+  - - '23'
+    - Lois
+    - Lorimer
+    - '2015-02-05 17:43:11.824693'
+    - '2015-02-05 17:43:11.824693'
+  - - '24'
+    - Diana
+    - Manole
+    - '2015-02-05 17:43:22.322971'
+    - '2015-02-05 17:43:22.322971'
+  - - '25'
+    - Jacob
+    - McArthur Mooney
+    - '2015-02-05 17:43:37.951186'
+    - '2015-02-05 17:43:37.951186'
+  - - '26'
+    - Erin
+    - Moure
+    - '2015-02-05 17:43:46.135558'
+    - '2015-02-05 17:43:46.135558'
+  - - '27'
+    - Karen
+    - Mulhallen
+    - '2015-02-05 17:43:52.242378'
+    - '2015-02-05 17:43:52.242378'
+  - - '28'
+    - M.
+    - Nourbese Philip
+    - '2015-02-05 17:44:19.327149'
+    - '2015-02-05 17:44:28.234327'
+  - - '29'
+    - Honey
+    - Novick
+    - '2015-02-05 17:44:45.445737'
+    - '2015-02-05 17:44:45.445737'
+  - - '30'
+    - Corrado
+    - Paina
+    - '2015-02-05 17:45:04.709082'
+    - '2015-02-05 17:45:04.709082'
+  - - '31'
+    - Gianna
+    - Patriarca
+    - '2015-02-05 17:45:13.898598'
+    - '2015-02-05 17:45:13.898598'
+  - - '32'
+    - Raymond
+    - Souster
+    - '2015-02-05 17:45:24.540757'
+    - '2015-02-05 17:45:24.540757'
+  - - '33'
+    - Paul
+    - Zemokhol
+    - '2015-02-05 17:45:43.177826'
+    - '2015-02-05 17:45:43.177826'
+  - - '34'
+    - Glen
+    - Downie
+    - '2015-03-13 14:13:40.109681'
+    - '2015-03-13 14:13:40.109681'
+  - - '35'
+    - Lillian
+    - Allen
+    - '2015-03-13 14:54:31.848326'
+    - '2015-03-13 14:54:31.848326'
+  - - '36'
+    - Milton
+    - Acorn
+    - '2015-03-13 15:01:11.041083'
+    - '2015-03-13 15:01:11.041083'
+  - - '37'
+    - Gwendolyn
+    - MacEwen
+    - '2015-03-24 20:44:01.179326'
+    - '2015-03-24 20:44:01.179326'
+  - - '38'
+    - George Elliott
+    - Clarke
+    - '2015-03-24 20:49:40.74552'
+    - '2015-03-24 20:49:57.147611'
+  - - '39'
+    - Eva
+    - HD
+    - '2015-03-31 20:33:27.968936'
+    - '2015-03-31 20:33:27.968936'
+  - - '40'
+    - Paul
+    - Muldoon
+    - '2015-04-02 15:59:22.503884'
+    - '2015-04-02 15:59:22.503884'
+  - - '41'
+    - Stevie
+    - Howell
+    - '2015-04-02 16:05:02.051202'
+    - '2015-04-02 16:05:02.051202'
+  - - '42'
+    - Margaret
+    - Avison
+    - '2015-04-07 13:40:09.691176'
+    - '2015-04-07 13:40:09.691176'
+  - - '43'
+    - Phyllis
+    - Gotlieb
+    - '2015-04-07 13:53:49.660591'
+    - '2015-04-07 13:53:49.660591'
+  - - '44'
+    - Margaret
+    - Atwood
+    - '2015-04-07 16:52:08.996364'
+    - '2015-04-07 16:52:08.996364'
+  - - '45'
+    - Michael
+    - Ondaatje
+    - '2015-04-07 17:05:55.445024'
+    - '2015-04-07 17:05:55.445024'
+  - - '46'
+    - Giovanna
+    - Riccio
+    - '2015-04-07 18:09:21.266062'
+    - '2015-04-07 18:09:21.266062'
+  - - '47'
+    - Rishma
+    - Dunlop
+    - '2015-04-07 18:15:14.303611'
+    - '2015-04-07 18:15:14.303611'
+  - - '48'
+    - Pier Giorgio
+    - Di Cicco
+    - '2015-04-07 18:20:19.161031'
+    - '2015-04-07 18:20:19.161031'
+  - - '49'
+    - Gordon
+    - Downie
+    - '2015-04-07 18:29:11.046386'
+    - '2015-04-07 18:29:11.046386'
+  - - '50'
+    - Leonard
+    - Gasparini
+    - '2015-04-07 18:49:14.715423'
+    - '2015-04-07 18:49:14.715423'
+  - - '51'
+    - Beatriz
+    - Hausner
+    - '2015-04-07 20:28:58.263622'
+    - '2015-04-07 20:28:58.263622'
+  - - '52'
+    - Michael
+    - Lista
+    - '2015-04-08 19:49:05.29074'
+    - '2015-04-08 19:49:05.29074'
+  - - '53'
+    - Barry
+    - Callaghan
+    - '2015-04-09 17:32:33.038282'
+    - '2015-04-09 17:32:33.038282'
+  - - '54'
+    - George
+    - Fetherling
+    - '2015-04-09 18:29:26.130545'
+    - '2015-04-09 18:29:26.130545'
+  - - '55'
+    - Ludwig
+    - Zeller
+    - '2015-04-09 21:08:12.982313'
+    - '2015-04-09 21:08:12.982313'
+  - - '56'
+    - bp
+    - nichol
+    - '2015-04-10 14:29:43.985036'
+    - '2015-04-10 14:29:43.985036'
+  - - '57'
+    - Anna
+    - Yin
+    - '2015-04-14 14:29:09.257281'
+    - '2015-04-14 14:29:09.257281'
+  - - '58'
+    - Earle
+    - Birney
+    - '2015-04-14 16:42:01.613981'
+    - '2015-04-14 16:42:01.613981'

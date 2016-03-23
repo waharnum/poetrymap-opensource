@@ -1,0 +1,306 @@
+ body,h1,h2,h3,h4,h5,h6,p,div,ul,li {
+ 	font-family: 'Open Sans', sans-serif;
+ 	font-size:14px;
+ 	color:#3d3935;
+ }
+
+.row { max-width: 100vw; }
+
+.map-column {
+	padding-right:0;
+	padding-left:0;
+}
+
+// Vertical center column hack via http://foundation.zurb.com/forum/posts/526-how-to-center-grid-row-vertically
+
+.valign-middle {
+    display: table;
+
+    > .columns {
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    > .columns, > [class*="column"] + [class*="column"]:last-child {
+        float: none;
+    }
+}
+
+.location-display {
+	padding: 12px 22px 22px 22px;
+}
+
+#map-canvas {
+	width:100%;
+	height:500px;
+	height:90vh;
+}
+
+
+ h1 {
+ 	font-size:33px;
+ }
+
+h2 {
+	font-weight:700;
+	font-family: 'Open Sans Bold', sans-serif;
+	font-size:14px;
+}
+
+.location-display{
+	height:500px;
+ 	height:90vh;
+ 	overflow:auto;
+ 	padding: 12px 10px 22px 10px;
+	h1 {
+		line-height:34px;
+		padding-bottom:13px;
+		margin-bottom:0px;
+		margin-top:0px;
+	}
+	h2 {
+		margin-bottom:0;
+	}
+ 	.location-image-container{
+ 		width:100%;
+ 		padding: 0 5px 0 5px;
+ 	}
+ 	.location-image-credit-container {
+ 		padding: 5px 5px 0 5px;
+ 		p{
+ 		font-size:11px;
+ 		line-height:13px;
+ 		}
+ 	}
+ 	a {
+		text-decoration:underline;
+		color: #0060c0;
+	}
+ }
+
+.poem-excerpt{
+	white-space:pre-wrap;
+	padding-top:5px;
+	margin-bottom:16px;
+}
+
+.poem-credit {
+	padding-bottom:16px;
+}
+
+.excerpt-underline {
+	height:1px;
+	width:22px;
+	background-color:black;
+	margin-top:0;
+	margin-bottom:16px;
+}
+
+.poem-title{
+		font-family: 'Open Sans Bold', sans-serif;
+		font-weight:700;
+		margin-bottom:0;
+	}
+
+.poem-book {
+	font-weight:400;
+	font-family: 'Open Sans Semi-Bold', sans-serif;
+	font-style:italic;
+}
+
+.external-link-image {
+	margin-left:4px;
+	width:8px;
+	height:8xp;
+}
+
+ .page-header{
+ 	background-color:#001c71;
+ 	padding: 0 14px 0 22px;
+ 	text-align:center;
+ 	height:64px;
+ 	.column, .columns {
+ 		padding-left:0;
+ 		padding-right:0;
+ 	}
+ 	.page-title {
+ 		h1{
+ 		color:white;
+ 		font-size:18px;
+ 		text-transform:none;
+ 		letter-spacing:0.3px;
+ 		}
+ 		a{
+ 		color:white;
+ 		}
+ 	}
+
+ 	.tpl-logo {
+ 		display:inline-block;
+ 		width:122px;
+ 		height:30px;
+ 	}
+ 	.social-logo {
+ 		margin:0 0px 0 10px;
+ 	}
+ 	.twitter {
+ 		width:24px;
+ 		height:25px;
+ 	}
+ 	.facebook {
+		width:23px;
+ 		height:23px;
+ 	}
+ 	a:hover {
+ 			border-bottom:1px solid white;
+ 			padding-bottom:4px;
+ 	}
+
+
+ }
+
+.map-column{
+	position:relative;
+}
+
+.location-wide-poems {
+	padding:14px;
+}
+
+.add-poems {
+	padding:14px 25% 14px 14px;
+}
+
+.location-wide-poems, .add-poems{
+	display:none;
+	overflow-y:auto;
+	height:90vh;
+	width:100%;
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:5000;
+	background-color:rgba(0,28,113,0.9);
+	h1,h2,p,a,ul,li{
+		color:white;
+	}
+	h2 {
+		margin-bottom:0;
+		padding-bottom:0;
+	}
+	a{
+		text-decoration:underline;
+	}
+	.excerpt-underline {
+		background-color:white;
+	}
+	.close-button {
+		position:fixed;
+		right:15px;
+		z-index:5001;
+		width:22px;
+		height:22px;
+	}
+	#pull-quote {
+		text-align:center;
+		#location-wide-poems-header {
+			font-size:12px;
+			text-transform:uppercase;
+			margin-bottom:0;
+			margin-top:22px;
+			font-family: 'Open Sans Bold', sans-serif;
+			letter-spacing:1px;
+		}
+		#pull-quote-quotes {
+			margin-top:32px;
+			margin-bottom:18px;
+			width:49px;
+			height:32px;
+		}
+		.poem-excerpt {
+			font-size:30px;
+			padding:0;
+			margin:0 0 16px 0;
+			line-height:38px;
+		}
+	}
+}
+
+.add-poems {
+	.excerpt {
+		font-style:italic;
+	}
+}
+
+.quotes {
+	width:26px;
+	height:17px;
+}
+
+.quotes-white {
+	width:25px;
+	height:16px;
+}
+
+@media #{$small-only} {
+	#map-canvas {
+		width:100%;
+		height:300px;
+		height:45vh;
+	}
+
+	h1 {
+		font-size:22px;
+	}
+
+	.location-display {
+		height:300px;
+		height:45vh;
+		overflow:auto;
+	}
+
+	.location-wide-poems, .add-poems {
+		padding:14px;
+		width:100%;
+		height:300px;
+		height:90vh;
+		#pull-quote {
+			.poem-excerpt {
+				font-size:20px;
+				line-height:26px;
+			}
+		}
+	}
+
+	.twitter {
+		width:24px;
+		height:25px;
+	}
+
+	.facebook {
+		width:24px;
+		height:25px;
+	}
+
+	.page-header {
+		height:44px;
+		padding: 0 0 0 10px;
+		.page-title {
+			h1{
+			font-size:15px;
+			margin-right:10px;
+			font-family: 'Open Sans Bold', sans-serif;
+			float:right;
+			}
+		}
+
+	}
+	.mobile-footer {
+		text-align:center;
+		padding:6px 0 6px
+		0;
+	}
+	.social-logo {
+		margin:0 0px 0 20px;
+ 	}
+}

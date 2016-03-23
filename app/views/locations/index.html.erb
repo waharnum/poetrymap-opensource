@@ -1,0 +1,23 @@
+<h1>Locations</h1>
+
+<table>
+  <thead>
+    <tr>      
+      <th>Location Name</th>
+      <th>Number of Poems</th>
+      <th>Show On Map</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @locations.each do |location | %>
+      <% if location.name != 'Generic Toronto' %>
+      <tr>        
+        <td><%= location.name %></td>
+        <td><%= location.poems.count %></td>
+        <td><a href="/?loc=<%= location.id %>">Show</a></td>
+      </tr>
+      <% end %>
+    <% end %>
+  </tbody>
+</table>
